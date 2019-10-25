@@ -1,0 +1,342 @@
+Added Component: Designator=J1_PreAmp1(EPG.0B.302.HLN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "AWG"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.lemo.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://intra.lemo.ch/catalog/ROW/UK_English/unipole_multipole.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Diameter"; Value = "0.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jun-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "LEMO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Elbow receptacle for printed circuit (solder or screw fixing), Key(G) for Printed Circuit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EPG.0B.302.HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EPG.0B.302.HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current(A)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "736-EPG0B302HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "4315250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1124-1426-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J1_PreAmp2(EPG.0B.302.HLN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "AWG"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.lemo.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://intra.lemo.ch/catalog/ROW/UK_English/unipole_multipole.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Diameter"; Value = "0.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jun-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "LEMO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Elbow receptacle for printed circuit (solder or screw fixing), Key(G) for Printed Circuit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EPG.0B.302.HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EPG.0B.302.HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current(A)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "736-EPG0B302HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "4315250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1124-1426-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J1_PreAmp3(EPG.0B.302.HLN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "AWG"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.lemo.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://intra.lemo.ch/catalog/ROW/UK_English/unipole_multipole.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Diameter"; Value = "0.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jun-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "LEMO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Elbow receptacle for printed circuit (solder or screw fixing), Key(G) for Printed Circuit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EPG.0B.302.HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EPG.0B.302.HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current(A)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "736-EPG0B302HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "4315250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1124-1426-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J1_PreAmp4(EPG.0B.302.HLN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "AWG"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.lemo.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://intra.lemo.ch/catalog/ROW/UK_English/unipole_multipole.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Diameter"; Value = "0.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jun-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "LEMO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Elbow receptacle for printed circuit (solder or screw fixing), Key(G) for Printed Circuit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EPG.0B.302.HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EPG.0B.302.HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current(A)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "736-EPG0B302HLN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "4315250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1124-1426-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U2(ADI-CS-48-1_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "AVDD Max"; Value = "3.6 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AVDD Min"; Value = "2.97 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.analog.com/en/index.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/media/en/technical-documentation/data-sheets/ADAR7251.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcsp-cs-side-solderable/cs-48/CS_48_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DVDD Max"; Value = "1.98 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DVDD Min"; Value = "1.62 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of A/D Converters"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Frame Chip Scale Package, Body 7 x 7 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "01/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ADAR7251WBCSZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sample Rate Max"; Value = "1.8 MSPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Net: Name=3V3_PG
+Added Net: Name=5V
+Added Net: Name=9V
+Added Pin To Net: NetName=ADC_DATA0 Pin=U2-26
+Added Net: Name=ADC_DATA0
+Added Pin To Net: NetName=ADC_DATA1 Pin=U2-27
+Added Net: Name=ADC_DATA1
+Added Pin To Net: NetName=ADC_DATA2 Pin=U2-28
+Added Net: Name=ADC_DATA2
+Added Pin To Net: NetName=ADC_DATA3 Pin=U2-29
+Added Net: Name=ADC_DATA3
+Added Pin To Net: NetName=ADC_DATA4 Pin=U2-30
+Added Net: Name=ADC_DATA4
+Added Pin To Net: NetName=ADC_DATA5 Pin=U2-31
+Added Net: Name=ADC_DATA5
+Added Pin To Net: NetName=ADC_DATA6 Pin=U2-32
+Added Net: Name=ADC_DATA6
+Added Pin To Net: NetName=ADC_DATA7 Pin=U2-33
+Added Net: Name=ADC_DATA7
+Added Pin To Net: NetName=AINN1 Pin=U2-45
+Added Net: Name=AINN1
+Added Pin To Net: NetName=AINN2 Pin=U2-47
+Added Net: Name=AINN2
+Added Pin To Net: NetName=AINN3 Pin=U2-3
+Added Net: Name=AINN3
+Added Pin To Net: NetName=AINN4 Pin=U2-5
+Added Net: Name=AINN4
+Added Pin To Net: NetName=AINP1 Pin=U2-44
+Added Net: Name=AINP1
+Added Pin To Net: NetName=AINP2 Pin=U2-46
+Added Net: Name=AINP2
+Added Pin To Net: NetName=AINP3 Pin=U2-2
+Added Net: Name=AINP3
+Added Pin To Net: NetName=AINP4 Pin=U2-4
+Added Net: Name=AINP4
+Added Pin To Net: NetName=AUXIN1 Pin=U2-6
+Added Net: Name=AUXIN1
+Added Pin To Net: NetName=AVDD1 Pin=U2-12
+Added Pin To Net: NetName=AVDD1 Pin=U2-18
+Added Pin To Net: NetName=AVDD1 Pin=U2-25
+Added Pin To Net: NetName=AVDD1 Pin=U2-37
+Added Pin To Net: NetName=AVDD1 Pin=U2-48
+Added Net: Name=AVDD1
+Added Pin To Net: NetName=BIASN Pin=U2-10
+Added Net: Name=BIASN
+Added Pin To Net: NetName=BIASP Pin=U2-11
+Added Net: Name=BIASP
+Added Pin To Net: NetName=CM Pin=U2-8
+Added Net: Name=CM
+Added Pin To Net: NetName=DVDD Pin=U2-19
+Added Pin To Net: NetName=DVDD Pin=U2-21
+Added Pin To Net: NetName=DVDD Pin=U2-24
+Added Net: Name=DVDD
+Added Pin To Net: NetName=GND Pin=J1_PreAmp1-1
+Added Pin To Net: NetName=GND Pin=J1_PreAmp1-4
+Added Pin To Net: NetName=GND Pin=J1_PreAmp1-5
+Added Pin To Net: NetName=GND Pin=J1_PreAmp1-6
+Added Pin To Net: NetName=GND Pin=J1_PreAmp1-7
+Added Pin To Net: NetName=GND Pin=J1_PreAmp2-1
+Added Pin To Net: NetName=GND Pin=J1_PreAmp2-4
+Added Pin To Net: NetName=GND Pin=J1_PreAmp2-5
+Added Pin To Net: NetName=GND Pin=J1_PreAmp2-6
+Added Pin To Net: NetName=GND Pin=J1_PreAmp2-7
+Added Pin To Net: NetName=GND Pin=J1_PreAmp3-1
+Added Pin To Net: NetName=GND Pin=J1_PreAmp3-4
+Added Pin To Net: NetName=GND Pin=J1_PreAmp3-5
+Added Pin To Net: NetName=GND Pin=J1_PreAmp3-6
+Added Pin To Net: NetName=GND Pin=J1_PreAmp3-7
+Added Pin To Net: NetName=GND Pin=J1_PreAmp4-1
+Added Pin To Net: NetName=GND Pin=J1_PreAmp4-4
+Added Pin To Net: NetName=GND Pin=J1_PreAmp4-5
+Added Pin To Net: NetName=GND Pin=J1_PreAmp4-6
+Added Pin To Net: NetName=GND Pin=J1_PreAmp4-7
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=GND Pin=U2-36
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO2 Pin=U2-42
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO3 Pin=U2-35
+Added Net: Name=GPIO3
+Added Pin To Net: NetName=GPIO4 Pin=U2-34
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO5 Pin=U2-22
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO6 Pin=U2-43
+Added Net: Name=GPIO6
+Added Pin To Net: NetName=MISO Pin=U2-38
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U2-39
+Added Net: Name=MOSI
+Added Net: Name=Net*1_Filter1_1
+Added Net: Name=Net*1_Filter1_2
+Added Net: Name=Net*1_Filter1_4
+Added Net: Name=Net*1_Filter1_5
+Added Net: Name=Net*1_Filter1_8
+Added Net: Name=Net*1_Filter2_1
+Added Net: Name=Net*1_Filter2_4
+Added Net: Name=Net*1_Filter2_5
+Added Net: Name=Net*1_Filter2_8
+Added Net: Name=Net*1_Filter3_1
+Added Net: Name=Net*1_Filter3_4
+Added Net: Name=Net*1_Filter3_5
+Added Net: Name=Net*1_Filter3_8
+Added Net: Name=Net*1_Filter4_1
+Added Net: Name=Net*1_Filter4_4
+Added Net: Name=Net*1_Filter4_5
+Added Net: Name=Net*1_Filter4_8
+Added Net: Name=Net*2_Filter1_1
+Added Net: Name=Net*2_Filter1_8
+Added Net: Name=Net*2_Filter2_1
+Added Net: Name=Net*2_Filter2_8
+Added Net: Name=Net*2_Filter3_1
+Added Net: Name=Net*2_Filter3_8
+Added Net: Name=Net*2_Filter4_1
+Added Net: Name=Net*2_Filter4_8
+Added Net: Name=NetC1_PreAmp1_1
+Added Net: Name=NetC1_PreAmp1_2
+Added Net: Name=NetC1_PreAmp2_1
+Added Net: Name=NetC1_PreAmp2_2
+Added Net: Name=NetC1_PreAmp3_1
+Added Net: Name=NetC1_PreAmp3_2
+Added Net: Name=NetC1_PreAmp4_1
+Added Net: Name=NetC1_PreAmp4_2
+Added Net: Name=NetC4_PreAmp1_1
+Added Net: Name=NetC4_PreAmp1_2
+Added Net: Name=NetC4_PreAmp2_1
+Added Net: Name=NetC4_PreAmp2_2
+Added Net: Name=NetC4_PreAmp3_1
+Added Net: Name=NetC4_PreAmp3_2
+Added Net: Name=NetC4_PreAmp4_1
+Added Net: Name=NetC4_PreAmp4_2
+Added Net: Name=NetC6_Filter1_1
+Added Net: Name=NetC6_Filter2_1
+Added Net: Name=NetC6_Filter3_1
+Added Net: Name=NetC6_Filter4_1
+Added Net: Name=NetC7_Filter1_1
+Added Net: Name=NetC7_Filter2_1
+Added Net: Name=NetC7_Filter3_1
+Added Net: Name=NetC7_Filter4_1
+Added Net: Name=NetC16_Filter1_1
+Added Net: Name=NetC16_Filter2_1
+Added Net: Name=NetC16_Filter3_1
+Added Net: Name=NetC16_Filter4_1
+Added Net: Name=NetC17_Filter1_1
+Added Net: Name=NetC17_Filter2_1
+Added Net: Name=NetC17_Filter3_1
+Added Net: Name=NetC17_Filter4_1
+Added Net: Name=NetC35_1
+Added Net: Name=NetC39_1
+Added Net: Name=NetC45_1
+Added Net: Name=NetC50_2
+Added Net: Name=NetD1_1
+Added Net: Name=NetD2_1
+Added Net: Name=NetD3_1
+Added Net: Name=NetD3_4
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetJ1_PreAmp1_2 Pin=J1_PreAmp1-2
+Added Net: Name=NetJ1_PreAmp1_2
+Added Pin To Net: NetName=NetJ1_PreAmp2_2 Pin=J1_PreAmp2-2
+Added Net: Name=NetJ1_PreAmp2_2
+Added Pin To Net: NetName=NetJ1_PreAmp3_2 Pin=J1_PreAmp3-2
+Added Net: Name=NetJ1_PreAmp3_2
+Added Pin To Net: NetName=NetJ1_PreAmp4_2 Pin=J1_PreAmp4-2
+Added Net: Name=NetJ1_PreAmp4_2
+Added Net: Name=NetR24_1
+Added Net: Name=NetR26_2
+Added Net: Name=NetS1_2
+Added Pin To Net: NetName=PLLFILT Pin=U2-14
+Added Net: Name=PLLFILT
+Added Pin To Net: NetName=PLVDD Pin=U2-15
+Added Net: Name=PLVDD
+Added Pin To Net: NetName=SCLK Pin=U2-40
+Added Net: Name=SCLK
+Added Net: Name=SCL
+Added Net: Name=SDA
+Added Pin To Net: NetName=SS Pin=U2-41
+Added Net: Name=SS
+Added Net: Name=SW0
+Added Net: Name=SW1
+Added Net: Name=SW2
+Added Pin To Net: NetName=XIN Pin=U2-16
+Added Net: Name=XIN
+Added Pin To Net: NetName=XOUT Pin=U2-17
+Added Net: Name=XOUT
+Added Net: Name=~FAULT
+Added Net: Name=~PG
+Added Net: Name=~STATUS_B
+Added Net: Name=~STATUS_G
+Added Net: Name=~STATUS_R
+Added Class: Name=3V3REG
+Added Class: Name=5VREG
+Added Class: Name=ADAR7251
+Added Class: Name=Battery
+Added Class: Name=Filter1
+Added Class: Name=Filter2
+Added Class: Name=Filter3
+Added Class: Name=Filter4
+Added Class: Name=PreAmp1
+Added Class: Name=PreAmp2
+Added Class: Name=PreAmp3
+Added Class: Name=PreAmp4
+Added Class: Name=RasPi
+Added Class: Name=REF
+Added Class: Name=Top
+Added Class: Name=XTAL
+Added Class: Name=ADC_DATA[0..7]
+Added Class: Name=AINN[1..4]
+Added Class: Name=AINP[1..4]
+Added Class: Name=GPIO[2..6]
+Added Class: Name=Analog Channel
+Added Class: Name=Bandpass
+Added Class: Name=Preamp
+Added Room: Name=3V3REG
+Added Room: Name=5VREG
+Added Room: Name=ADAR7251
+Added Room: Name=Battery
+Added Room: Name=Filter1
+Added Room: Name=Filter2
+Added Room: Name=Filter3
+Added Room: Name=Filter4
+Added Room: Name=PreAmp1
+Added Room: Name=PreAmp2
+Added Room: Name=PreAmp3
+Added Room: Name=PreAmp4
+Added Room: Name=RasPi
+Added Room: Name=REF
+Added Room: Name=Top
+Added Room: Name=XTAL

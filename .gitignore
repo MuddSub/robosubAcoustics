@@ -3,3 +3,6 @@
 
 # Ignore history folder
 Hydrophones DAQ/History
+
+# Ignore project logs
+*.LOG

@@ -1,0 +1,5 @@
+.DS_Store
+.git
+
+# Ignore history folder
+Hydrophones DAQ/History

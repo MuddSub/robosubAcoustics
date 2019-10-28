@@ -242,7 +242,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZVOZVRPG
 
 [Document13]
-DocumentPath=3VSupply.SchDoc
+DocumentPath=3V3Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

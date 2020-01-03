@@ -344,23 +344,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MBUDKCQW
 
 [Document19]
-DocumentPath=..\..\..\..\Downloads\SOIC127P600X175-8N\Imported SOIC127P600X175-8N.lia\SOIC127P600X175-8N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QLSKUNDL
-
-[Document20]
 DocumentPath=FootprintImports\Imported LD1117S33CTR.lia\LD1117S33CTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIIQUSFP
 
-[Document21]
+[Document20]
 DocumentPath=FootprintImports\Imported TO254P1435X464-4N.lia\TO254P1435X464-4N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,6 +376,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXYKNEMB
+
+[Document21]
+DocumentPath=FootprintImports\Imported SOIC127P600X175-8N.lia\SOIC127P600X175-8N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QLSKUNDL
 
 [Document22]
 DocumentPath=FootprintImports\Imported LP5912-3.3DRVT.lia\LP5912-3.3DRVT.PcbLib

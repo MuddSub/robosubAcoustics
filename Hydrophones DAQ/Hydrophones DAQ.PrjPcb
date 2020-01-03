@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=QNPQZBPX
 
 [Document5]
+DocumentPath=FootprintImports\Imported LTST-C191KGKT.lia\LTST-C191KGKT.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RCCVALRT
+
+[Document6]
 DocumentPath=rpiShield\rpi.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRSFBUOT
 
-[Document6]
+[Document7]
 DocumentPath=Preamp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNGWQHPT
 
-[Document7]
+[Document8]
 DocumentPath=Analog Channel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZGTVOFAS
 
-[Document8]
+[Document9]
 DocumentPath=amplification.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUEUFGNI
 
-[Document9]
+[Document10]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IROKCDPN
 
-[Document10]
+[Document11]
 DocumentPath=ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKPOOPHQ
 
-[Document11]
+[Document12]
 DocumentPath=Top.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFGFLQWQ
 
-[Document12]
+[Document13]
 DocumentPath=Hydrophones DAQ.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=battery.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CQNNPPLK
 
-[Document14]
+[Document15]
 DocumentPath=Ref.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMPVPVWL
 
-[Document15]
+[Document16]
 DocumentPath=5VSupply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZVOZVRPG
 
-[Document16]
+[Document17]
 DocumentPath=3V3Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQBXDEFO
 
-[Document17]
+[Document18]
 DocumentPath=RasPi.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXTYUEYE
 
-[Document18]
+[Document19]
 DocumentPath=XTAL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TIWKHPQD
 
-[Document19]
+[Document20]
 DocumentPath=DAQ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYVBUVMD
 
-[Document20]
+[Document21]
 DocumentPath=FootprintImports\Imported THS4551IDGKT.lia\THS4551IDGKT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBUDKCQW
 
-[Document21]
+[Document22]
 DocumentPath=FootprintImports\Imported LD1117S33CTR.lia\LD1117S33CTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIIQUSFP
 
-[Document22]
+[Document23]
 DocumentPath=FootprintImports\Imported TO254P1435X464-4N.lia\TO254P1435X464-4N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXYKNEMB
 
-[Document23]
+[Document24]
 DocumentPath=FootprintImports\Imported SOIC127P600X175-8N.lia\SOIC127P600X175-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLSKUNDL
 
-[Document24]
+[Document25]
 DocumentPath=FootprintImports\Imported LP5912-3.3DRVT.lia\LP5912-3.3DRVT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BINVDVAU
 
-[Document25]
+[Document26]
 DocumentPath=FootprintImports\Imported CAPPRD350W60D800H2000.lia\CAPPRD350W60D800H2000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TXHWPFFA
 
-[Document26]
+[Document27]
 DocumentPath=FootprintImports\Imported 282837-2.lia\282837-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQOXGMFI
 
-[Document27]
+[Document28]
+DocumentPath=FootprintImports\Imported LTST-C191KGKT.lia\LTST-C191KGKT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SGBOFORX
+
+[Document29]
 DocumentPath=rpiShield\rpi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1619,8 +1653,8 @@ ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=DAQ.SchLib
-ComponentDesignItemID3=9V_BAT
-ComponentSymbolReference3=9V_BAT
+ComponentDesignItemID3=9V_BAT_conn_ 282837-2
+ComponentSymbolReference3=9V_BAT_conn_ 282837-2
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
@@ -2185,23 +2219,62 @@ ParameterUpdate179=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=*SOP65P490X110-8N
+ModelName0=*CAPPRD350W60D800H2000
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=ADI-CS-48-1_L
+ModelName1=*SOIC127P600X175-8N
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=ADI-CS-48-1_M
+ModelName2=*SOP65P490X110-8N
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=ADI-CS-48-1_N
+ModelName3=*SOT223
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=headerPins_4x1
+ModelName4=*TE_282837-2
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=XTAL_407F35E009M6000
+ModelName5=*TO254P1435X464-4N_5V
 ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=293D106X9016B2TE3
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=ADI-CS-48-1_L
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=ADI-CS-48-1_M
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=ADI-CS-48-1_N
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=C0603
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=C0805
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=fuse_C1T_1206
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=headerPins_4x1
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=R0603
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=rgb_led_LTST-C19HE1WT
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=rpi
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=SDA04H0SB_dip_switch
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=XTAL_407F35E009M6000
+ModelUpdate18=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

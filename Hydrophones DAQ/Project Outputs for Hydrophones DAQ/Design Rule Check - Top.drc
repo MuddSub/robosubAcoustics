@@ -1,0 +1,446 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\cnorf\Documents\GitHub\robosubAcoustics\Hydrophones DAQ\Top.PcbDoc
+Date     : 1/4/2020
+Time     : 12:06:05 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_1 Between Pad *3_amplification1-1(234.483mm,104.53mm) on Top Layer And Pad R23_amplification1-1(339.852mm,107.581mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_1 Between Pad R26_amplification1-2(208.026mm,109.081mm) on Top Layer And Pad *3_amplification1-1(234.483mm,104.53mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad R36-2(160.528mm,68.949mm) on Top Layer And Pad *3_amplification1-2(235.133mm,104.53mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad U1_PreAmp1-2(233.609mm,119.897mm) on Top Layer And Pad *3_amplification1-2(235.133mm,104.53mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad *3_amplification1-7(235.133mm,108.83mm) on Top Layer And Pad *3_amplification1-3(235.783mm,104.53mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad R19-2(166.231mm,83.439mm) on Top Layer And Pad *3_amplification1-3(235.783mm,104.53mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINP1 Between Pad *3_amplification1-4(236.433mm,104.53mm) on Top Layer And Pad R23_amplification1-2(339.852mm,109.081mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINP1 Between Pad U2-44(113.75mm,52.875mm) on Top Layer And Pad *3_amplification1-4(236.433mm,104.53mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINN1 Between Pad R38_amplification1-2(154.686mm,109.081mm) on Top Layer And Pad *3_amplification1-5(236.433mm,108.83mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad *3_amplification1-6(235.783mm,108.83mm) on Top Layer And Pad C45-2(237.678mm,61.214mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp1-6(234.259mm,124.197mm) on Top Layer And Pad *3_amplification1-6(235.783mm,108.83mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp1-3(234.259mm,119.897mm) on Top Layer And Pad *3_amplification1-7(235.133mm,108.83mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_8 Between Pad R28_amplification1-2(181.356mm,109.081mm) on Top Layer And Pad *3_amplification1-8(234.483mm,108.83mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification2_1 Between Pad *3_amplification2-1(236.007mm,131.073mm) on Top Layer And Pad R23_amplification2-1(343.408mm,134.124mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification2_1 Between Pad R26_amplification2-2(209.042mm,135.624mm) on Top Layer And Pad *3_amplification2-1(236.007mm,131.073mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad *3_amplification2-2(236.657mm,131.073mm) on Top Layer And Pad C5_PreAmp1-2(280.797mm,124.575mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad U1_PreAmp1-2(233.609mm,119.897mm) on Top Layer And Pad *3_amplification2-2(236.657mm,131.073mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad U1_PreAmp2-2(236.149mm,146.44mm) on Top Layer And Pad *3_amplification2-2(236.657mm,131.073mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad *3_amplification2-7(236.657mm,135.373mm) on Top Layer And Pad *3_amplification2-3(237.307mm,131.073mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp1-7(233.609mm,124.197mm) on Top Layer And Pad *3_amplification2-3(237.307mm,131.073mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINP2 Between Pad *3_amplification2-4(237.957mm,131.073mm) on Top Layer And Pad R23_amplification2-2(343.408mm,135.624mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINP2 Between Pad U2-46(112.75mm,52.875mm) on Top Layer And Pad *3_amplification2-4(237.957mm,131.073mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINN2 Between Pad R38_amplification2-2(154.686mm,135.624mm) on Top Layer And Pad *3_amplification2-5(237.957mm,135.373mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp1-6(234.259mm,124.197mm) on Top Layer And Pad *3_amplification2-6(237.307mm,135.373mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp2-6(236.799mm,150.74mm) on Top Layer And Pad *3_amplification2-6(237.307mm,135.373mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad *3_amplification2-7(236.657mm,135.373mm) on Top Layer And Pad U1_PreAmp2-3(236.799mm,146.44mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification2_8 Between Pad R28_amplification2-2(181.864mm,135.624mm) on Top Layer And Pad *3_amplification2-8(236.007mm,135.373mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification3_1 Between Pad *3_amplification3-1(236.007mm,157.616mm) on Top Layer And Pad R23_amplification3-1(343.408mm,160.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification3_1 Between Pad R26_amplification3-2(209.042mm,162.167mm) on Top Layer And Pad *3_amplification3-1(236.007mm,157.616mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad U1_PreAmp2-2(236.149mm,146.44mm) on Top Layer And Pad *3_amplification3-2(236.657mm,157.616mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad U1_PreAmp3-2(236.149mm,172.983mm) on Top Layer And Pad *3_amplification3-2(236.657mm,157.616mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad *3_amplification3-7(236.657mm,161.916mm) on Top Layer And Pad *3_amplification3-3(237.307mm,157.616mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp2-7(236.149mm,150.74mm) on Top Layer And Pad *3_amplification3-3(237.307mm,157.616mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINP3 Between Pad *3_amplification3-4(237.957mm,157.616mm) on Top Layer And Pad R23_amplification3-2(343.408mm,162.167mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINP3 Between Pad U2-2(111.125mm,51.75mm) on Top Layer And Pad *3_amplification3-4(237.957mm,157.616mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINN3 Between Pad R38_amplification3-2(154.686mm,162.167mm) on Top Layer And Pad *3_amplification3-5(237.957mm,161.916mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp2-6(236.799mm,150.74mm) on Top Layer And Pad *3_amplification3-6(237.307mm,161.916mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp3-6(236.799mm,177.283mm) on Top Layer And Pad *3_amplification3-6(237.307mm,161.916mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad *3_amplification3-7(236.657mm,161.916mm) on Top Layer And Pad U1_PreAmp3-3(236.799mm,172.983mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification3_8 Between Pad R28_amplification3-2(181.864mm,162.167mm) on Top Layer And Pad *3_amplification3-8(236.007mm,161.916mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification4_1 Between Pad *3_amplification4-1(236.007mm,184.159mm) on Top Layer And Pad R23_amplification4-1(343.408mm,187.21mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification4_1 Between Pad R26_amplification4-2(209.042mm,188.71mm) on Top Layer And Pad *3_amplification4-1(236.007mm,184.159mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad U1_PreAmp3-2(236.149mm,172.983mm) on Top Layer And Pad *3_amplification4-2(236.657mm,184.159mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad U1_PreAmp4-2(236.149mm,199.526mm) on Top Layer And Pad *3_amplification4-2(236.657mm,184.159mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad *3_amplification4-7(236.657mm,188.459mm) on Top Layer And Pad *3_amplification4-3(237.307mm,184.159mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp3-7(236.149mm,177.283mm) on Top Layer And Pad *3_amplification4-3(237.307mm,184.159mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINP4 Between Pad *3_amplification4-4(237.957mm,184.159mm) on Top Layer And Pad R23_amplification4-2(343.408mm,188.71mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINP4 Between Pad U2-4(111.125mm,50.75mm) on Top Layer And Pad *3_amplification4-4(237.957mm,184.159mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINN4 Between Pad R38_amplification4-2(154.686mm,188.71mm) on Top Layer And Pad *3_amplification4-5(237.957mm,188.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp3-6(236.799mm,177.283mm) on Top Layer And Pad *3_amplification4-6(237.307mm,188.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp4-6(236.799mm,203.826mm) on Top Layer And Pad *3_amplification4-6(237.307mm,188.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad *3_amplification4-7(236.657mm,188.459mm) on Top Layer And Pad U1_PreAmp4-3(236.799mm,199.526mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification4_8 Between Pad R28_amplification4-2(181.864mm,188.71mm) on Top Layer And Pad *3_amplification4-8(236.007mm,188.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 9V Between Pad B1-1(162.433mm,43.434mm) on Multi-Layer And Pad C41-2(166.215mm,23.495mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net 9V Between Pad B1-1(162.433mm,43.434mm) on Multi-Layer And Pad R22-1(190.627mm,45.478mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C41-1(162.715mm,23.495mm) on Multi-Layer And Pad B1-2(167.513mm,43.434mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C44-1(154.686mm,45.605mm) on Top Layer And Pad B1-2(167.513mm,43.434mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad B1-2(167.513mm,43.434mm) on Multi-Layer And Pad R21-1(172.478mm,46.863mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp1_1 Between Pad C1_PreAmp1-1(296.799mm,123.075mm) on Top Layer And Pad R1_PreAmp1-1(312.674mm,122.948mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp1_1 Between Pad U1_PreAmp1-1(232.959mm,119.897mm) on Top Layer And Pad C1_PreAmp1-1(296.799mm,123.075mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp1_2 Between Pad C1_PreAmp1-2(296.799mm,124.575mm) on Top Layer And Pad R1_PreAmp1-2(312.674mm,124.448mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp1_2 Between Pad U1_PreAmp1-4(234.909mm,119.897mm) on Top Layer And Pad C1_PreAmp1-2(296.799mm,124.575mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp2_1 Between Pad C1_PreAmp2-1(301.371mm,149.618mm) on Top Layer And Pad R1_PreAmp2-1(317.754mm,149.491mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp2_1 Between Pad U1_PreAmp2-1(235.499mm,146.44mm) on Top Layer And Pad C1_PreAmp2-1(301.371mm,149.618mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp2_2 Between Pad C1_PreAmp2-2(301.371mm,151.118mm) on Top Layer And Pad R1_PreAmp2-2(317.754mm,150.991mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp2_2 Between Pad U1_PreAmp2-4(237.449mm,146.44mm) on Top Layer And Pad C1_PreAmp2-2(301.371mm,151.118mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp3_1 Between Pad C1_PreAmp3-1(301.371mm,176.161mm) on Top Layer And Pad R1_PreAmp3-1(317.754mm,176.034mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp3_1 Between Pad U1_PreAmp3-1(235.499mm,172.983mm) on Top Layer And Pad C1_PreAmp3-1(301.371mm,176.161mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp3_2 Between Pad C1_PreAmp3-2(301.371mm,177.661mm) on Top Layer And Pad R1_PreAmp3-2(317.754mm,177.534mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp3_2 Between Pad U1_PreAmp3-4(237.449mm,172.983mm) on Top Layer And Pad C1_PreAmp3-2(301.371mm,177.661mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp4_1 Between Pad C1_PreAmp4-1(301.371mm,202.704mm) on Top Layer And Pad R1_PreAmp4-1(317.754mm,202.577mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp4_1 Between Pad U1_PreAmp4-1(235.499mm,199.526mm) on Top Layer And Pad C1_PreAmp4-1(301.371mm,202.704mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp4_2 Between Pad C1_PreAmp4-2(301.371mm,204.204mm) on Top Layer And Pad R1_PreAmp4-2(317.754mm,204.077mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp4_2 Between Pad U1_PreAmp4-4(237.449mm,199.526mm) on Top Layer And Pad C1_PreAmp4-2(301.371mm,204.204mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C3_PreAmp1-1(248.793mm,123.075mm) on Top Layer And Pad C2_PreAmp1-1(264.795mm,123.075mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C56_amplification1-1(259.715mm,107.708mm) on Top Layer And Pad C2_PreAmp1-1(264.795mm,123.075mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C56_amplification2-1(261.747mm,134.251mm) on Top Layer And Pad C2_PreAmp1-1(264.795mm,123.075mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C3_PreAmp1-2(248.793mm,124.575mm) on Top Layer And Pad C2_PreAmp1-2(264.795mm,124.575mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C2_PreAmp1-2(264.795mm,124.575mm) on Top Layer And Pad C5_PreAmp1-1(280.797mm,123.075mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C56_amplification1-2(259.715mm,109.208mm) on Top Layer And Pad C2_PreAmp1-2(264.795mm,124.575mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C56_amplification2-2(261.747mm,135.751mm) on Top Layer And Pad C2_PreAmp1-2(264.795mm,124.575mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C3_PreAmp2-1(251.841mm,149.618mm) on Top Layer And Pad C2_PreAmp2-1(268.351mm,149.618mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C56_amplification3-1(261.747mm,160.794mm) on Top Layer And Pad C2_PreAmp2-1(268.351mm,149.618mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C3_PreAmp2-2(251.841mm,151.118mm) on Top Layer And Pad C2_PreAmp2-2(268.351mm,151.118mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C56_amplification3-2(261.747mm,162.294mm) on Top Layer And Pad C2_PreAmp2-2(268.351mm,151.118mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C3_PreAmp3-1(251.841mm,176.161mm) on Top Layer And Pad C2_PreAmp3-1(268.351mm,176.161mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C56_amplification4-1(261.747mm,187.337mm) on Top Layer And Pad C2_PreAmp3-1(268.351mm,176.161mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C3_PreAmp3-2(251.841mm,177.661mm) on Top Layer And Pad C2_PreAmp3-2(268.351mm,177.661mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C56_amplification4-2(261.747mm,188.837mm) on Top Layer And Pad C2_PreAmp3-2(268.351mm,177.661mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C3_PreAmp4-1(251.841mm,202.704mm) on Top Layer And Pad C2_PreAmp4-1(268.351mm,202.704mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C3_PreAmp4-2(251.841mm,204.204mm) on Top Layer And Pad C2_PreAmp4-2(268.351mm,204.204mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C2_PreAmp4-2(268.351mm,204.204mm) on Top Layer And Pad C5_PreAmp4-1(284.861mm,202.704mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C20-1(98.05mm,13.782mm) on Top Layer And Pad C21-2(105.211mm,13.909mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C24-2(88.393mm,13.782mm) on Top Layer And Pad C20-1(98.05mm,13.782mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C20-2(99.95mm,13.782mm) on Top Layer And Pad C21-1(103.711mm,13.909mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad R17-1(92.408mm,13.909mm) on Top Layer And Pad C20-2(99.95mm,13.782mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C21-1(103.711mm,13.909mm) on Top Layer And Pad C22-2(111.126mm,13.782mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C21-2(105.211mm,13.909mm) on Top Layer And Pad C22-1(109.226mm,13.782mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C22-1(109.226mm,13.782mm) on Top Layer And Pad C23-2(115.002mm,14.151mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C22-2(111.126mm,13.782mm) on Top Layer And Pad C23-1(115.002mm,12.651mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C49-1(110.75mm,28mm) on Top Layer And Pad C22-2(111.126mm,13.782mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C23-1(115.002mm,12.651mm) on Top Layer And Pad C32-1(118.081mm,9.782mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C23-2(115.002mm,14.151mm) on Top Layer And Pad C39-2(156.525mm,6.731mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U2-18(114.25mm,46.125mm) on Top Layer And Pad C23-2(115.002mm,14.151mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net BIASP Between Pad C24-1(86.493mm,13.782mm) on Top Layer And Pad U2-11(111.125mm,47.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C25-1(104.5mm,44.554mm) on Top Layer And Pad C26-2(107mm,44.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C25-1(104.5mm,44.554mm) on Top Layer And Pad C37-1(105.5mm,42.5mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C26-2(107mm,44.75mm) on Top Layer And Track (109.7mm,44.25mm)(110.331mm,44.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C28-2(119mm,55mm) on Top Layer And Pad C27-1(119.4mm,58mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C28-1(117.5mm,55mm) on Top Layer And Pad C27-2(117.5mm,58mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U2-37(117.25mm,52.875mm) on Top Layer And Pad C28-1(117.5mm,55mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U2-36(117.875mm,52.25mm) on Top Layer And Pad C28-2(119mm,55mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C29-1(109.1mm,58mm) on Top Layer And Pad C30-2(109.5mm,55mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad J3-6(23.452mm,90.35mm) on Multi-Layer And Pad C29-1(109.1mm,58mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C30-1(111mm,55mm) on Top Layer And Pad C29-2(111mm,58mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp1-7(233.609mm,124.197mm) on Top Layer And Pad C3_PreAmp1-1(248.793mm,123.075mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp1-6(234.259mm,124.197mm) on Top Layer And Pad C3_PreAmp1-2(248.793mm,124.575mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp2-7(236.149mm,150.74mm) on Top Layer And Pad C3_PreAmp2-1(251.841mm,149.618mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp2-6(236.799mm,150.74mm) on Top Layer And Pad C3_PreAmp2-2(251.841mm,151.118mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp3-7(236.149mm,177.283mm) on Top Layer And Pad C3_PreAmp3-1(251.841mm,176.161mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp3-6(236.799mm,177.283mm) on Top Layer And Pad C3_PreAmp3-2(251.841mm,177.661mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp4-7(236.149mm,203.826mm) on Top Layer And Pad C3_PreAmp4-1(251.841mm,202.704mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U1_PreAmp4-6(236.799mm,203.826mm) on Top Layer And Pad C3_PreAmp4-2(251.841mm,204.204mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C30-1(111mm,55mm) on Top Layer And Pad U2-48(111.75mm,52.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C30-2(109.5mm,55mm) on Top Layer And Pad U2-1(111.125mm,52.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net BIASN Between Pad C31-1(81.159mm,13.782mm) on Top Layer And Pad U2-10(111.125mm,47.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C31-2(83.059mm,13.782mm) on Top Layer And Pad R17-1(92.408mm,13.909mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C32-1(118.081mm,9.782mm) on Top Layer And Pad C33-1(123.984mm,8.651mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad C32-2(119.981mm,9.782mm) on Top Layer And Pad C33-2(123.984mm,10.151mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad U2-24(117.25mm,46.125mm) on Top Layer And Pad C32-2(119.981mm,9.782mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C33-1(123.984mm,8.651mm) on Top Layer And Pad C34-1(129.826mm,8.651mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad C33-2(123.984mm,10.151mm) on Top Layer And Pad C34-2(129.826mm,10.151mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C34-1(129.826mm,8.651mm) on Top Layer And Pad C39-1(154.625mm,6.731mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C36-1(105.05mm,40mm) on Top Layer And Pad C37-1(105.5mm,42.5mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C36-1(105.05mm,40mm) on Top Layer And Pad C50-1(107mm,37mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C39-1(154.625mm,6.731mm) on Top Layer And Pad C4-1(160.286mm,6.858mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C39-1(154.625mm,6.731mm) on Top Layer And Pad C42-1(155.956mm,21.516mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C39-2(156.525mm,6.731mm) on Top Layer And Pad U-2(169.799mm,2.87mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C4-1(160.286mm,6.858mm) on Top Layer And Pad U-1(167.488mm,2.87mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C42-1(155.956mm,21.516mm) on Top Layer And Pad C41-1(162.715mm,23.495mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net 9V Between Pad C4-2(161.786mm,6.858mm) on Top Layer And Pad C41-2(166.215mm,23.495mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net 9V Between Pad C4-2(161.786mm,6.858mm) on Top Layer And Pad U-3(172.11mm,2.87mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad C42-2(155.956mm,24.966mm) on Top Layer And Pad U4-4(175.387mm,24.099mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U3-8(183.642mm,46.544mm) on Top Layer And Pad C43-1(196.342mm,45.605mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C43-2(196.342mm,47.105mm) on Top Layer And Pad C47-2(213.995mm,61.583mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U3-4(187.452mm,41.594mm) on Top Layer And Pad C43-2(196.342mm,47.105mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C44-1(154.686mm,45.605mm) on Top Layer And Pad R35-1(154.686mm,59.956mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN1 Between Pad C44-2(154.686mm,47.105mm) on Top Layer And Pad R27-2(177.927mm,46.978mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN1 Between Pad U2-6(111.125mm,49.75mm) on Top Layer And Pad C44-2(154.686mm,47.105mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC45_1 Between Pad C46-1(229.997mm,60.083mm) on Top Layer And Pad C45-1(235.778mm,61.214mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC45_1 Between Pad C45-1(235.778mm,61.214mm) on Top Layer And Pad F1-1(241.875mm,60.96mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C46-2(229.997mm,61.583mm) on Top Layer And Pad C45-2(237.678mm,61.214mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC45_1 Between Pad C47-1(213.995mm,60.083mm) on Top Layer And Pad C46-1(229.997mm,60.083mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad D1-2(227.164mm,61.722mm) on Top Layer And Pad C46-2(229.997mm,61.583mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC45_1 Between Pad J3-2(18.372mm,90.35mm) on Multi-Layer And Pad C47-1(213.995mm,60.083mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C47-2(213.995mm,61.583mm) on Top Layer And Pad D1-2(227.164mm,61.722mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C48-1(154.686mm,67.576mm) on Top Layer And Pad J2-1(160.782mm,75.438mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad R35-1(154.686mm,59.956mm) on Top Layer And Pad C48-1(154.686mm,67.576mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad C48-2(154.686mm,69.076mm) on Top Layer And Pad R36-2(160.528mm,68.949mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C49-1(110.75mm,28mm) on Top Layer And Pad XTAL1-2(112.959mm,31.209mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C5_PreAmp1-1(280.797mm,123.075mm) on Top Layer And Pad C54_amplification1-2(286.385mm,109.208mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad C5_PreAmp1-2(280.797mm,124.575mm) on Top Layer And Pad C5_PreAmp2-2(284.861mm,151.118mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C5_PreAmp2-1(284.861mm,149.618mm) on Top Layer And Pad C54_amplification2-2(288.925mm,135.751mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C5_PreAmp2-1(284.861mm,149.618mm) on Top Layer And Pad C54_amplification3-2(288.925mm,162.294mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad C5_PreAmp2-2(284.861mm,151.118mm) on Top Layer And Pad C5_PreAmp3-2(284.861mm,177.661mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C5_PreAmp3-1(284.861mm,176.161mm) on Top Layer And Pad C54_amplification3-2(288.925mm,162.294mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C5_PreAmp3-1(284.861mm,176.161mm) on Top Layer And Pad C54_amplification4-2(288.925mm,188.837mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad C5_PreAmp3-2(284.861mm,177.661mm) on Top Layer And Pad C5_PreAmp4-2(284.861mm,204.204mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad C5_PreAmp3-2(284.861mm,177.661mm) on Top Layer And Pad C52_amplification4-2(316.103mm,188.837mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C5_PreAmp4-1(284.861mm,202.704mm) on Top Layer And Pad C54_amplification4-2(288.925mm,188.837mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad XTAL1-4(106.559mm,33.749mm) on Top Layer And Pad C50-1(107mm,37mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C54_amplification1-2(286.385mm,109.208mm) on Top Layer And Pad C52_amplification1-1(313.055mm,107.708mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad C52_amplification1-2(313.055mm,109.208mm) on Top Layer And Pad C52_amplification2-2(316.103mm,135.751mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C52_amplification2-1(316.103mm,134.251mm) on Top Layer And Pad C52_amplification3-1(316.103mm,160.794mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad C52_amplification2-2(316.103mm,135.751mm) on Top Layer And Pad C52_amplification3-2(316.103mm,162.294mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C52_amplification3-1(316.103mm,160.794mm) on Top Layer And Pad C52_amplification4-1(316.103mm,187.337mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad C54_amplification3-2(288.925mm,162.294mm) on Top Layer And Pad C52_amplification3-1(316.103mm,160.794mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_2 Between Pad C52_amplification3-2(316.103mm,162.294mm) on Top Layer And Pad C52_amplification4-2(316.103mm,188.837mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C56_amplification1-1(259.715mm,107.708mm) on Top Layer And Pad C54_amplification1-1(286.385mm,107.708mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C54_amplification2-1(288.925mm,134.251mm) on Top Layer And Pad C54_amplification3-1(288.925mm,160.794mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C56_amplification2-1(261.747mm,134.251mm) on Top Layer And Pad C54_amplification2-1(288.925mm,134.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad C54_amplification3-1(288.925mm,160.794mm) on Top Layer And Pad C54_amplification4-1(288.925mm,187.337mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp1_1 Between Pad C6_PreAmp1-1(154.686mm,123.075mm) on Top Layer And Pad R4_PreAmp1-1(170.688mm,122.948mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp1_2 Between Pad C6_PreAmp1-2(154.686mm,124.575mm) on Top Layer And Pad R4_PreAmp1-2(170.688mm,124.448mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp2_1 Between Pad C6_PreAmp2-1(154.686mm,149.618mm) on Top Layer And Pad R4_PreAmp2-1(171.196mm,149.491mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp2_2 Between Pad C6_PreAmp2-2(154.686mm,151.118mm) on Top Layer And Pad R4_PreAmp2-2(171.196mm,150.991mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp3_1 Between Pad C6_PreAmp3-1(154.686mm,176.161mm) on Top Layer And Pad R4_PreAmp3-1(171.196mm,176.034mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp3_2 Between Pad C6_PreAmp3-2(154.686mm,177.661mm) on Top Layer And Pad R4_PreAmp3-2(171.196mm,177.534mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp4_1 Between Pad C6_PreAmp4-1(154.686mm,202.704mm) on Top Layer And Pad R4_PreAmp4-1(171.196mm,202.577mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp4_2 Between Pad C6_PreAmp4-2(154.686mm,204.204mm) on Top Layer And Pad R4_PreAmp4-2(171.196mm,204.077mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD1_1 Between Pad R29-1(219.964mm,59.956mm) on Top Layer And Pad D1-1(225.464mm,61.722mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD2_1 Between Pad R30-1(203.962mm,59.956mm) on Top Layer And Pad D2-1(209.462mm,61.722mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ~FAULT Between Pad J3-36(61.552mm,90.35mm) on Multi-Layer And Pad D2-2(211.162mm,61.722mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_1 Between Pad R31-2(195.695mm,61.341mm) on Top Layer And Pad D3-1(199.517mm,60.833mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ~STATUS_G Between Pad J3-38(64.092mm,90.35mm) on Multi-Layer And Pad D3-2(200.367mm,60.833mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ~STATUS_B Between Pad J3-40(66.632mm,90.35mm) on Multi-Layer And Pad D3-3(200.367mm,59.383mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_4 Between Pad D3-4(199.517mm,59.383mm) on Top Layer And Pad R30-2(203.962mm,61.456mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_4 Between Pad S1-7(190.826mm,58.42mm) on Top Layer And Pad D3-4(199.517mm,59.383mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD4_1 Between Pad D4-1(166.028mm,61.722mm) on Top Layer And Pad R33-1(170.688mm,59.956mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ~PG Between Pad J3-37(64.092mm,87.81mm) on Multi-Layer And Pad D4-2(167.728mm,61.722mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad U4-4(175.387mm,24.099mm) on Top Layer And Pad F1-2(244.535mm,60.96mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ_PreAmp1_1 Between Pad J_PreAmp1-1(190.119mm,117.348mm) on Multi-Layer And Pad R2_PreAmp1-1(217.17mm,122.948mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad J_PreAmp1-2(190.119mm,122.428mm) on Multi-Layer And Pad J_PreAmp2-2(191.135mm,148.971mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad J_PreAmp1-2(190.119mm,122.428mm) on Multi-Layer And Pad R3_PreAmp1-1(201.168mm,122.948mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ_PreAmp2_1 Between Pad J_PreAmp2-1(191.135mm,143.891mm) on Multi-Layer And Pad R2_PreAmp2-1(219.202mm,149.491mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad J_PreAmp2-2(191.135mm,148.971mm) on Multi-Layer And Pad R3_PreAmp2-1(202.692mm,149.491mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ_PreAmp3_1 Between Pad J_PreAmp3-1(191.135mm,170.434mm) on Multi-Layer And Pad R2_PreAmp3-1(219.202mm,176.034mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad J_PreAmp3-2(191.135mm,175.514mm) on Multi-Layer And Pad R3_PreAmp3-1(202.692mm,176.034mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ_PreAmp4_1 Between Pad J_PreAmp4-1(191.135mm,196.977mm) on Multi-Layer And Pad R2_PreAmp4-1(219.202mm,202.577mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad J_PreAmp4-2(191.135mm,202.057mm) on Multi-Layer And Pad R3_PreAmp4-1(202.692mm,202.577mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad J2-2(160.782mm,77.978mm) on Multi-Layer And Pad R19-2(166.231mm,83.439mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad J2-2(160.782mm,77.978mm) on Multi-Layer And Pad U3-8(183.642mm,46.544mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SDA Between Pad J3-27(51.392mm,87.81mm) on Multi-Layer And Pad J2-3(160.782mm,80.518mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SDA Between Pad J2-3(160.782mm,80.518mm) on Multi-Layer And Pad R19-1(164.731mm,83.439mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SCL Between Pad R20-1(154.686mm,82.054mm) on Top Layer And Pad J2-4(160.782mm,83.058mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_4 Between Pad J3-1(18.372mm,87.81mm) on Multi-Layer And Pad R33-2(170.688mm,61.456mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ADC_DATA1 Between Pad J3-10(28.532mm,90.35mm) on Multi-Layer And Pad U2-27(117.875mm,47.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ADC_DATA2 Between Pad J3-11(31.072mm,87.81mm) on Multi-Layer And Pad U2-28(117.875mm,48.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ADC_DATA3 Between Pad J3-12(31.072mm,90.35mm) on Multi-Layer And Pad U2-29(117.875mm,48.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ADC_DATA4 Between Pad J3-13(33.612mm,87.81mm) on Multi-Layer And Pad U2-30(117.875mm,49.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ADC_DATA5 Between Pad J3-15(36.152mm,87.81mm) on Multi-Layer And Pad U2-31(117.875mm,49.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ADC_DATA6 Between Pad J3-16(36.152mm,90.35mm) on Multi-Layer And Pad U2-32(117.875mm,50.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ADC_DATA7 Between Pad J3-18(38.692mm,90.35mm) on Multi-Layer And Pad U2-33(117.875mm,50.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net MOSI Between Pad J3-19(41.232mm,87.81mm) on Multi-Layer And Pad U2-39(116.25mm,52.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net MISO Between Pad J3-21(43.772mm,87.81mm) on Multi-Layer And Pad U2-38(116.75mm,52.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SCLK Between Pad J3-23(46.312mm,87.81mm) on Multi-Layer And Pad U2-40(115.75mm,52.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SS Between Pad J3-24(46.312mm,90.35mm) on Multi-Layer And Pad U2-41(115.25mm,52.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SW2 Between Pad J3-26(48.852mm,90.35mm) on Multi-Layer And Pad R32-2(176.53mm,61.456mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SCL Between Pad J3-28(51.392mm,90.35mm) on Multi-Layer And Pad R20-1(154.686mm,82.054mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GPIO5 Between Pad J3-29(53.932mm,87.81mm) on Multi-Layer And Pad U2-22(116.25mm,46.125mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GPIO2 Between Pad J3-3(20.912mm,87.81mm) on Multi-Layer And Pad U2-42(114.75mm,52.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GPIO6 Between Pad J3-31(56.472mm,87.81mm) on Multi-Layer And Pad U2-43(114.25mm,52.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SW0 Between Pad J3-32(56.472mm,90.35mm) on Multi-Layer And Pad R34-2(160.528mm,61.456mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SW1 Between Pad J3-33(59.012mm,87.81mm) on Multi-Layer And Pad R35-2(154.686mm,61.456mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ~STATUS_R Between Pad J3-35(61.552mm,87.81mm) on Multi-Layer And Pad R31-1(194.195mm,61.341mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GPIO3 Between Pad J3-5(23.452mm,87.81mm) on Multi-Layer And Pad U2-35(117.875mm,51.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GPIO4 Between Pad J3-7(25.992mm,87.81mm) on Multi-Layer And Pad U2-34(117.875mm,51.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ADC_DATA0 Between Pad J3-8(25.992mm,90.35mm) on Multi-Layer And Pad U2-26(117.875mm,47.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ADC_DATA6 Between Pad R17-2(93.908mm,13.909mm) on Top Layer And Pad U2-32(117.875mm,50.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad R20-2(154.686mm,83.554mm) on Top Layer And Pad R19-2(166.231mm,83.439mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp1_1 Between Pad R2_PreAmp1-2(217.17mm,124.448mm) on Top Layer And Pad U1_PreAmp1-1(232.959mm,119.897mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp2_1 Between Pad R2_PreAmp2-2(219.202mm,150.991mm) on Top Layer And Pad U1_PreAmp2-1(235.499mm,146.44mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp3_1 Between Pad R2_PreAmp3-2(219.202mm,177.534mm) on Top Layer And Pad U1_PreAmp3-1(235.499mm,172.983mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp4_1 Between Pad R2_PreAmp4-2(219.202mm,204.077mm) on Top Layer And Pad U1_PreAmp4-1(235.499mm,199.526mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad R21-1(172.478mm,46.863mm) on Top Layer And Pad U3-4(187.452mm,41.594mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR21_2 Between Pad R21-2(173.978mm,46.863mm) on Top Layer And Pad R22-2(190.627mm,46.978mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR21_2 Between Pad U3-3(186.182mm,41.594mm) on Top Layer And Pad R22-2(190.627mm,46.978mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp1_2 Between Pad R26_amplification1-1(208.026mm,107.581mm) on Top Layer And Pad U1_PreAmp1-4(234.909mm,119.897mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp2_2 Between Pad R26_amplification2-1(209.042mm,134.124mm) on Top Layer And Pad U1_PreAmp2-4(237.449mm,146.44mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp3_2 Between Pad R26_amplification3-1(209.042mm,160.667mm) on Top Layer And Pad U1_PreAmp3-4(237.449mm,172.983mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_PreAmp4_2 Between Pad R26_amplification4-1(209.042mm,187.21mm) on Top Layer And Pad U1_PreAmp4-4(237.449mm,199.526mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR27_1 Between Pad R27-1(177.927mm,45.478mm) on Top Layer And Pad U3-1(183.642mm,41.594mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp1_2 Between Pad R4_PreAmp1-2(170.688mm,124.448mm) on Top Layer And Pad R28_amplification1-1(181.356mm,107.581mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification1_8 Between Pad R38_amplification1-1(154.686mm,107.581mm) on Top Layer And Pad R28_amplification1-2(181.356mm,109.081mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp2_2 Between Pad R4_PreAmp2-2(171.196mm,150.991mm) on Top Layer And Pad R28_amplification2-1(181.864mm,134.124mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification2_8 Between Pad R38_amplification2-1(154.686mm,134.124mm) on Top Layer And Pad R28_amplification2-2(181.864mm,135.624mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp3_2 Between Pad R4_PreAmp3-2(171.196mm,177.534mm) on Top Layer And Pad R28_amplification3-1(181.864mm,160.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification3_8 Between Pad R38_amplification3-1(154.686mm,160.667mm) on Top Layer And Pad R28_amplification3-2(181.864mm,162.167mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp4_2 Between Pad R4_PreAmp4-2(171.196mm,204.077mm) on Top Layer And Pad R28_amplification4-1(181.864mm,187.21mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net*3_amplification4_8 Between Pad R38_amplification4-1(154.686mm,187.21mm) on Top Layer And Pad R28_amplification4-2(181.864mm,188.71mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_4 Between Pad R30-2(203.962mm,61.456mm) on Top Layer And Pad R29-2(219.964mm,61.456mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad R3_PreAmp1-1(201.168mm,122.948mm) on Top Layer And Pad U1_PreAmp1-6(234.259mm,124.197mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp1_1 Between Pad R4_PreAmp1-1(170.688mm,122.948mm) on Top Layer And Pad R3_PreAmp1-2(201.168mm,124.448mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp1_1 Between Pad R3_PreAmp1-2(201.168mm,124.448mm) on Top Layer And Pad U1_PreAmp1-8(232.959mm,124.197mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad R3_PreAmp2-1(202.692mm,149.491mm) on Top Layer And Pad R3_PreAmp3-1(202.692mm,176.034mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp2_1 Between Pad R4_PreAmp2-1(171.196mm,149.491mm) on Top Layer And Pad R3_PreAmp2-2(202.692mm,150.991mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp2_1 Between Pad R3_PreAmp2-2(202.692mm,150.991mm) on Top Layer And Pad U1_PreAmp2-8(235.499mm,150.74mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad R3_PreAmp3-1(202.692mm,176.034mm) on Top Layer And Pad R3_PreAmp4-1(202.692mm,202.577mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp3_1 Between Pad R4_PreAmp3-1(171.196mm,176.034mm) on Top Layer And Pad R3_PreAmp3-2(202.692mm,177.534mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp3_1 Between Pad R3_PreAmp3-2(202.692mm,177.534mm) on Top Layer And Pad U1_PreAmp3-8(235.499mm,177.283mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp4_1 Between Pad R4_PreAmp4-1(171.196mm,202.577mm) on Top Layer And Pad R3_PreAmp4-2(202.692mm,204.077mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp4_1 Between Pad R3_PreAmp4-2(202.692mm,204.077mm) on Top Layer And Pad U1_PreAmp4-8(235.499mm,203.826mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad R34-1(160.528mm,59.956mm) on Top Layer And Pad R32-1(176.53mm,59.956mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SW2 Between Pad R32-2(176.53mm,61.456mm) on Top Layer And Pad S1-4(182.626mm,53.34mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_4 Between Pad R33-2(170.688mm,61.456mm) on Top Layer And Pad S1-3(182.626mm,55.88mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad R35-1(154.686mm,59.956mm) on Top Layer And Pad R34-1(160.528mm,59.956mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SW0 Between Pad R34-2(160.528mm,61.456mm) on Top Layer And Pad S1-6(190.826mm,55.88mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SW1 Between Pad R35-2(154.686mm,61.456mm) on Top Layer And Pad S1-8(190.826mm,60.96mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR36_1 Between Pad R36-1(160.528mm,67.449mm) on Top Layer And Pad U3-7(184.912mm,46.544mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINN1 Between Pad U2-45(113.25mm,52.875mm) on Top Layer And Pad R38_amplification1-2(154.686mm,109.081mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINN2 Between Pad U2-47(112.25mm,52.875mm) on Top Layer And Pad R38_amplification2-2(154.686mm,135.624mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINN3 Between Pad U2-3(111.125mm,51.25mm) on Top Layer And Pad R38_amplification3-2(154.686mm,162.167mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AINN4 Between Pad U2-5(111.125mm,50.25mm) on Top Layer And Pad R38_amplification4-2(154.686mm,188.71mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp1_2 Between Pad R4_PreAmp1-2(170.688mm,124.448mm) on Top Layer And Pad U1_PreAmp1-5(234.909mm,124.197mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp2_2 Between Pad R4_PreAmp2-2(171.196mm,150.991mm) on Top Layer And Pad U1_PreAmp2-5(237.449mm,150.74mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp3_2 Between Pad R4_PreAmp3-2(171.196mm,177.534mm) on Top Layer And Pad U1_PreAmp3-5(237.449mm,177.283mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_PreAmp4_2 Between Pad R4_PreAmp4-2(171.196mm,204.077mm) on Top Layer And Pad U1_PreAmp4-5(237.449mm,203.826mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_4 Between Pad S1-3(182.626mm,55.88mm) on Top Layer And Pad S1-5(190.826mm,53.34mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_4 Between Pad S1-5(190.826mm,53.34mm) on Top Layer And Pad S1-7(190.826mm,58.42mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U-1(167.488mm,2.87mm) on Top Layer And Pad U4-1(172.847mm,13.749mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp1-7(233.609mm,124.197mm) on Top Layer And Pad U1_PreAmp1-3(234.259mm,119.897mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp2-7(236.149mm,150.74mm) on Top Layer And Pad U1_PreAmp2-3(236.799mm,146.44mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp3-7(236.149mm,177.283mm) on Top Layer And Pad U1_PreAmp3-3(236.799mm,172.983mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U1_PreAmp4-7(236.149mm,203.826mm) on Top Layer And Pad U1_PreAmp4-3(236.799mm,199.526mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U-2(169.799mm,2.87mm) on Top Layer And Pad U3-8(183.642mm,46.544mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U2-1(111.125mm,52.25mm) on Top Layer And Via (112.3mm,51.7mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net XOUT Between Pad U2-17(113.75mm,46.125mm) on Top Layer And Track (113.75mm,37mm)(113.847mm,37.097mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U2-18(114.25mm,46.125mm) on Top Layer And Pad U2-25(117.875mm,46.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Track (110.379mm,46.25mm)(110.879mm,46.75mm) on Top Layer And Pad U2-18(114.25mm,46.125mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad U2-19(114.75mm,46.125mm) on Top Layer And Pad U2-21(115.75mm,46.125mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U2-20(115.25mm,46.125mm) on Top Layer And Via (115.6mm,47.3mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DVDD Between Pad U2-21(115.75mm,46.125mm) on Top Layer And Pad U2-24(117.25mm,46.125mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Via (116.7mm,47.3mm) from Top Layer to Bottom Layer And Pad U2-23(116.75mm,46.125mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U2-37(117.25mm,52.875mm) on Top Layer And Pad U2-25(117.875mm,46.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Via (116.7mm,51.7mm) from Top Layer to Bottom Layer And Pad U2-36(117.875mm,52.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AVDD1 Between Pad U2-48(111.75mm,52.875mm) on Top Layer And Pad U2-37(117.25mm,52.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U2-9(111.125mm,48.25mm) on Top Layer And Pad U2-7(111.125mm,49.25mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net CM Between Pad U2-8(111.125mm,48.75mm) on Top Layer And Pad U3-5(187.452mm,46.544mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad U2-9(111.125mm,48.25mm) on Top Layer And Via (112.3mm,48.4mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net 9V Between Pad U-3(172.11mm,2.87mm) on Top Layer And Pad U4-3(177.927mm,13.749mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR27_1 Between Pad U3-1(183.642mm,41.594mm) on Top Layer And Pad U3-2(184.912mm,41.594mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR36_1 Between Pad U3-7(184.912mm,46.544mm) on Top Layer And Pad U3-6(186.182mm,46.544mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad U4-2(175.387mm,13.749mm) on Top Layer And Pad U4-4(175.387mm,24.099mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Pad XTAL1-4(106.559mm,33.749mm) on Top Layer And Pad XTAL1-2(112.959mm,31.209mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC50_2 Between Track (112.25mm,36.8mm)(112.25mm,37mm) on Top Layer And Pad XTAL1-3(112.959mm,33.749mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AUXIN2 Between Track (111.748mm,45.877mm)(111.75mm,45.879mm) on Top Layer And Via (112.3mm,47.3mm) from Top Layer to Bottom Layer 
+Rule Violations :316
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (2.75mm > 2.54mm) Pad Free-(13.502mm,40.08mm) on Multi-Layer Actual Hole Size = 2.75mm
+   Violation between Hole Size Constraint: (2.75mm > 2.54mm) Pad Free-(13.502mm,89.08mm) on Multi-Layer Actual Hole Size = 2.75mm
+   Violation between Hole Size Constraint: (2.75mm > 2.54mm) Pad Free-(71.502mm,40.08mm) on Multi-Layer Actual Hole Size = 2.75mm
+   Violation between Hole Size Constraint: (2.75mm > 2.54mm) Pad Free-(71.502mm,89.08mm) on Multi-Layer Actual Hole Size = 2.75mm
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-1(111.125mm,52.25mm) on Top Layer And Pad U2-2(111.125mm,51.75mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.077mm < 0.254mm) Between Pad U2-1(111.125mm,52.25mm) on Top Layer And Pad U2-48(111.75mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.077mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-10(111.125mm,47.75mm) on Top Layer And Pad U2-11(111.125mm,47.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-10(111.125mm,47.75mm) on Top Layer And Pad U2-9(111.125mm,48.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-11(111.125mm,47.25mm) on Top Layer And Pad U2-12(111.125mm,46.75mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.077mm < 0.254mm) Between Pad U2-12(111.125mm,46.75mm) on Top Layer And Pad U2-13(111.75mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.077mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-13(111.75mm,46.125mm) on Top Layer And Pad U2-14(112.25mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-14(112.25mm,46.125mm) on Top Layer And Pad U2-15(112.75mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-15(112.75mm,46.125mm) on Top Layer And Pad U2-16(113.25mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-16(113.25mm,46.125mm) on Top Layer And Pad U2-17(113.75mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-17(113.75mm,46.125mm) on Top Layer And Pad U2-18(114.25mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-18(114.25mm,46.125mm) on Top Layer And Pad U2-19(114.75mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-19(114.75mm,46.125mm) on Top Layer And Pad U2-20(115.25mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-2(111.125mm,51.75mm) on Top Layer And Pad U2-3(111.125mm,51.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-20(115.25mm,46.125mm) on Top Layer And Pad U2-21(115.75mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-21(115.75mm,46.125mm) on Top Layer And Pad U2-22(116.25mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-22(116.25mm,46.125mm) on Top Layer And Pad U2-23(116.75mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-23(116.75mm,46.125mm) on Top Layer And Pad U2-24(117.25mm,46.125mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.077mm < 0.254mm) Between Pad U2-24(117.25mm,46.125mm) on Top Layer And Pad U2-25(117.875mm,46.75mm) on Top Layer [Top Solder] Mask Sliver [0.077mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-25(117.875mm,46.75mm) on Top Layer And Pad U2-26(117.875mm,47.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-26(117.875mm,47.25mm) on Top Layer And Pad U2-27(117.875mm,47.75mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-27(117.875mm,47.75mm) on Top Layer And Pad U2-28(117.875mm,48.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-28(117.875mm,48.25mm) on Top Layer And Pad U2-29(117.875mm,48.75mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-29(117.875mm,48.75mm) on Top Layer And Pad U2-30(117.875mm,49.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-3(111.125mm,51.25mm) on Top Layer And Pad U2-4(111.125mm,50.75mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-30(117.875mm,49.25mm) on Top Layer And Pad U2-31(117.875mm,49.75mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-31(117.875mm,49.75mm) on Top Layer And Pad U2-32(117.875mm,50.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-32(117.875mm,50.25mm) on Top Layer And Pad U2-33(117.875mm,50.75mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-33(117.875mm,50.75mm) on Top Layer And Pad U2-34(117.875mm,51.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-34(117.875mm,51.25mm) on Top Layer And Pad U2-35(117.875mm,51.75mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-35(117.875mm,51.75mm) on Top Layer And Pad U2-36(117.875mm,52.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.077mm < 0.254mm) Between Pad U2-36(117.875mm,52.25mm) on Top Layer And Pad U2-37(117.25mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.077mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-37(117.25mm,52.875mm) on Top Layer And Pad U2-38(116.75mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-38(116.75mm,52.875mm) on Top Layer And Pad U2-39(116.25mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-39(116.25mm,52.875mm) on Top Layer And Pad U2-40(115.75mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-4(111.125mm,50.75mm) on Top Layer And Pad U2-5(111.125mm,50.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-40(115.75mm,52.875mm) on Top Layer And Pad U2-41(115.25mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-41(115.25mm,52.875mm) on Top Layer And Pad U2-42(114.75mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-42(114.75mm,52.875mm) on Top Layer And Pad U2-43(114.25mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-43(114.25mm,52.875mm) on Top Layer And Pad U2-44(113.75mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-44(113.75mm,52.875mm) on Top Layer And Pad U2-45(113.25mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-45(113.25mm,52.875mm) on Top Layer And Pad U2-46(112.75mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-46(112.75mm,52.875mm) on Top Layer And Pad U2-47(112.25mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-47(112.25mm,52.875mm) on Top Layer And Pad U2-48(111.75mm,52.875mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-5(111.125mm,50.25mm) on Top Layer And Pad U2-6(111.125mm,49.75mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-6(111.125mm,49.75mm) on Top Layer And Pad U2-7(111.125mm,49.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-7(111.125mm,49.25mm) on Top Layer And Pad U2-8(111.125mm,48.75mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U2-8(111.125mm,48.75mm) on Top Layer And Pad U2-9(111.125mm,48.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+Rule Violations :48
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.234mm < 0.254mm) Between Arc (110.15mm,53.05mm) on Top Overlay And Text "U2" (107mm,52mm) on Top Overlay Silk Text to Silk Clearance [0.234mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "C35" (98mm,43.5mm) on Top Overlay And Text "C37" (98mm,42mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.222mm < 0.254mm) Between Text "C35" (98mm,43.5mm) on Top Overlay And Text "R18" (98mm,45.5mm) on Top Overlay Silk Text to Silk Clearance [0.222mm]
+   Violation between Silk To Silk Clearance Constraint: (0.222mm < 0.254mm) Between Text "C36" (97.5mm,38mm) on Top Overlay And Text "C50" (98mm,36mm) on Top Overlay Silk Text to Silk Clearance [0.222mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "C37" (98mm,42mm) on Top Overlay And Text "C38" (97.5mm,40.5mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+Rule Violations :5
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Via (112.3mm,47.3mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (112.3mm,48.4mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (112.3mm,49.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (112.3mm,50.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (112.3mm,51.7mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (113.4mm,47.3mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (113.4mm,48.4mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (113.4mm,49.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (113.4mm,50.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (113.4mm,51.7mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (114.5mm,47.3mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (114.5mm,48.4mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (114.5mm,49.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (114.5mm,50.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (114.5mm,51.7mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (115.6mm,47.3mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (115.6mm,48.4mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (115.6mm,49.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (115.6mm,50.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (115.6mm,51.7mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (116.7mm,47.3mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (116.7mm,48.4mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (116.7mm,49.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (116.7mm,50.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (116.7mm,51.7mm) from Top Layer to Bottom Layer 
+Rule Violations :25
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 398
+Waived Violations : 0
+Time Elapsed        : 00:00:01

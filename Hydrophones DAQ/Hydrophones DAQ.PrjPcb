@@ -140,6 +140,23 @@ GenerateClassCluster=0
 DocumentUniqueId=VRSFBUOT
 
 [Document7]
+DocumentPath=FootprintImports\UWX1C100MCL1GB\2020-01-08_00-59-00.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BBMQAWQH
+
+[Document8]
 DocumentPath=Preamp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNGWQHPT
 
-[Document8]
+[Document9]
 DocumentPath=Analog Channel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZGTVOFAS
 
-[Document9]
+[Document10]
 DocumentPath=amplification.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUEUFGNI
 
-[Document10]
+[Document11]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IROKCDPN
 
-[Document11]
+[Document12]
 DocumentPath=ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKPOOPHQ
 
-[Document12]
+[Document13]
 DocumentPath=Top.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFGFLQWQ
 
-[Document13]
+[Document14]
 DocumentPath=Hydrophones DAQ.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=battery.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CQNNPPLK
 
-[Document15]
+[Document16]
 DocumentPath=Ref.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMPVPVWL
 
-[Document16]
+[Document17]
 DocumentPath=5VSupply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZVOZVRPG
 
-[Document17]
+[Document18]
 DocumentPath=3V3Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQBXDEFO
 
-[Document18]
+[Document19]
 DocumentPath=RasPi.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXTYUEYE
 
-[Document19]
+[Document20]
 DocumentPath=XTAL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TIWKHPQD
 
-[Document20]
+[Document21]
 DocumentPath=DAQ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYVBUVMD
 
-[Document21]
+[Document22]
 DocumentPath=FootprintImports\Imported THS4551IDGKT.lia\THS4551IDGKT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBUDKCQW
 
-[Document22]
+[Document23]
 DocumentPath=FootprintImports\Imported LD1117S33CTR.lia\LD1117S33CTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIIQUSFP
 
-[Document23]
+[Document24]
 DocumentPath=FootprintImports\Imported TO254P1435X464-4N.lia\TO254P1435X464-4N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXYKNEMB
 
-[Document24]
+[Document25]
 DocumentPath=FootprintImports\Imported SOIC127P600X175-8N.lia\SOIC127P600X175-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLSKUNDL
 
-[Document25]
+[Document26]
 DocumentPath=FootprintImports\Imported LP5912-3.3DRVT.lia\LP5912-3.3DRVT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BINVDVAU
 
-[Document26]
+[Document27]
 DocumentPath=FootprintImports\Imported CAPPRD350W60D800H2000.lia\CAPPRD350W60D800H2000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TXHWPFFA
 
-[Document27]
+[Document28]
 DocumentPath=FootprintImports\Imported 282837-2.lia\282837-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQOXGMFI
 
-[Document28]
+[Document29]
 DocumentPath=FootprintImports\Imported LTST-C191KGKT.lia\LTST-C191KGKT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGBOFORX
 
-[Document29]
+[Document30]
 DocumentPath=rpiShield\rpi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -529,6 +546,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULCRYWGC
+
+[Document31]
+DocumentPath=FootprintImports\UWX1C100MCL1GB\2020-01-08_00-59-00.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MTCRKTOS
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Hydrophones DAQ\Design Rule Check - Top.html

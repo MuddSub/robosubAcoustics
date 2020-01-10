@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\cnorf\Documents\GitHub\robosubAcoustics\Hydrophones DAQ\Top.PcbDoc
 Date     : 1/10/2020
-Time     : 4:01:58 PM
+Time     : 4:04:00 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -82,19 +82,13 @@ Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (0.098mm < 0.1mm) Between Text ".1uF" (38.9mm,76.8mm) on Top Overlay And Track (38.766mm,76.552mm)(41.566mm,76.552mm) on Top Overlay Silk Text to Silk Clearance [0.098mm]
-   Violation between Silk To Silk Clearance Constraint: (0.061mm < 0.1mm) Between Text ".1uF" (41.1mm,63mm) on Top Overlay And Track (39.8mm,62.789mm)(42.6mm,62.789mm) on Top Overlay Silk Text to Silk Clearance [0.061mm]
-   Violation between Silk To Silk Clearance Constraint: (0.096mm < 0.1mm) Between Text ".1uF" (54.2mm,40.2mm) on Top Overlay And Track (51.154mm,40.203mm)(53.954mm,40.203mm) on Top Overlay Silk Text to Silk Clearance [0.096mm]
-   Violation between Silk To Silk Clearance Constraint: (0.096mm < 0.1mm) Between Text ".1uF" (54.2mm,40.2mm) on Top Overlay And Track (53.954mm,38.603mm)(53.954mm,40.203mm) on Top Overlay Silk Text to Silk Clearance [0.096mm]
-   Violation between Silk To Silk Clearance Constraint: (0.096mm < 0.1mm) Between Text ".1uF" (54.4mm,42.6mm) on Top Overlay And Track (54.154mm,40.658mm)(54.154mm,41.558mm) on Top Overlay Silk Text to Silk Clearance [0.096mm]
-   Violation between Silk To Silk Clearance Constraint: (0.096mm < 0.1mm) Between Text ".1uF" (54.4mm,42.6mm) on Top Overlay And Track (54.154mm,41.558mm)(54.154mm,42.458mm) on Top Overlay Silk Text to Silk Clearance [0.096mm]
    Violation between Silk To Silk Clearance Constraint: (0.084mm < 0.1mm) Between Text ".47uF" (37.2mm,60.3mm) on Top Overlay And Track (36.966mm,57.452mm)(36.966mm,60.902mm) on Top Overlay Silk Text to Silk Clearance [0.084mm]
    Violation between Silk To Silk Clearance Constraint: (0.09mm < 0.1mm) Between Text "2.2uF" (51.1mm,51.1mm) on Top Overlay And Track (50.8mm,51.84mm)(53.6mm,51.84mm) on Top Overlay Silk Text to Silk Clearance [0.09mm]
    Violation between Silk To Silk Clearance Constraint: (0.03mm < 0.1mm) Between Text "330pF" (28.3mm,37.7mm) on Top Overlay And Track (27.953mm,35.3mm)(27.953mm,38.1mm) on Top Overlay Silk Text to Silk Clearance [0.03mm]
    Violation between Silk To Silk Clearance Constraint: (0.016mm < 0.1mm) Between Text "36pF" (41.2mm,67.9mm) on Top Overlay And Track (41.866mm,65.402mm)(41.866mm,68.202mm) on Top Overlay Silk Text to Silk Clearance [0.016mm]
    Violation between Silk To Silk Clearance Constraint: (0.051mm < 0.1mm) Between Text "390pF" (40.4mm,67.9mm) on Top Overlay And Track (40.066mm,66.252mm)(40.066mm,67.052mm) on Top Overlay Silk Text to Silk Clearance [0.051mm]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mm) Between Text "U4" (49mm,78.3mm) on Top Overlay And Track (49.53mm,73.59mm)(49.53mm,84.01mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-Rule Violations :12
+Rule Violations :6
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
    Violation between Net Antennae: Via (31.766mm,69.952mm) from Top Layer to Bottom Layer 
@@ -110,6 +104,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 67
+Violations Detected : 61
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

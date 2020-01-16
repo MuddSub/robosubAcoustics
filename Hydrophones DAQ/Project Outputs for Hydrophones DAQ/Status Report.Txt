@@ -1,0 +1,11 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Hydrophones DAQ.PrjPcb]
+   Generated File[Bill of Materials-Hydrophones DAQ.xls]
+   Generated File[Bill of Materials-Hydrophones DAQ.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 6:14:28 PM On 1/15/2020

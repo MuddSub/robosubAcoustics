@@ -1,15 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 5:23:51 PM On 1/18/2020
+Start Output Generation At 5:57:32 PM On 1/18/2020
 
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Hydrophones DAQ.PrjPcb]
-   Generated File[Bill of Materials-Hydrophones DAQ.xls]
-   Generated File[Bill of Materials-Hydrophones DAQ.xls]
+Output: Export PARASOLID
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Top.PcbDoc]
+   Generated File[Top.x_t]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 5:23:55 PM On 1/18/2020
+Finished Output Generation At 5:57:57 PM On 1/18/2020

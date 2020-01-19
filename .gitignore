@@ -6,3 +6,6 @@ Hydrophones DAQ/History
 
 # Ignore project logs
 *.LOG
+
+# ignore really huge CAD file folder
+Hydrophones DAQ/Project Outputs for Hydrophones DAQ/ExportSTEP/fancy version of pcb with traces and stuff

@@ -2,55 +2,6 @@
 FileName = Top.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : Top.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : Top.G1
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D69
-    D70
-    D71
-    D72
-    D74
-    D75
-*************************************************************
-
-*************************************************************
-Generating : EDGE CUTS
-      File : Top.GM2
-
-    Adding Layer      : EDGE CUTS
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
 Generating : Bottom Paste
       File : Top.GBP
 
@@ -175,28 +126,69 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : Top.GBL
+Generating : GND
+      File : Top.G1
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D69
+    D70
+    D71
+    D72
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Top.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : PWR_3V3
+      File : Top.G2
+
+    Adding Layer      : PWR_3V3
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D14
-    D20
-    D21
-    D27
+    D67
     D68
-    D69
     D70
-    D71
-    D72
-    D73
     D74
-    D75
-    D76
+*************************************************************
+
+*************************************************************
+Generating : EDGE CUTS
+      File : Top.GM2
+
+    Adding Layer      : EDGE CUTS
+
+
+Used DCodes :
+    D14
 *************************************************************
 
 *************************************************************
@@ -246,19 +238,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : PWR_3V3
-      File : Top.G2
+Generating : Bottom Layer
+      File : Top.GBL
 
-    Adding Layer      : PWR_3V3
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D14
-    D67
+    D20
+    D21
+    D27
     D68
+    D69
     D70
+    D71
+    D72
+    D73
     D74
+    D75
+    D76
 *************************************************************
 

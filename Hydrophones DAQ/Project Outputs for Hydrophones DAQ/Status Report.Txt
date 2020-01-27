@@ -1,11 +1,10 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Hydrophones DAQ.PrjPcb]
-   Generated File[Bill of Materials-Hydrophones DAQ.xls]
-   Generated File[Bill of Materials-Hydrophones DAQ.xls]
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Top.PcbDoc]
+   Generated File[Top.step]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:52:13 PM On 1/18/2020
+Finished Output Generation At 9:10:19 PM On 1/26/2020

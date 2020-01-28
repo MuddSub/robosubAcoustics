@@ -2,6 +2,65 @@
 FileName = Top.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Solder
+      File : Top.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : Top.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D68
+    D70
+    D71
+    D72
+    D75
+    D76
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : Top.GBP
 
@@ -16,30 +75,6 @@ Used DCodes :
     D19
     D20
     D26
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Top.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D38
-    D39
-    D45
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
 *************************************************************
 
 *************************************************************
@@ -72,7 +107,6 @@ Used DCodes :
     D35
     D36
     D37
-    D64
     D65
     D66
     D67
@@ -83,6 +117,46 @@ Used DCodes :
     D72
     D73
     D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Top.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D45
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Top.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D17
+    D78
 *************************************************************
 
 *************************************************************
@@ -115,23 +189,21 @@ Generating : PWR_3V3
 
 Used DCodes :
     D14
-    D66
     D67
     D69
-    D73
+    D71
+    D75
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Top.GBO
+Generating : EDGE CUTS
+      File : Top.GM2
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : EDGE CUTS
 
 
 Used DCodes :
-    D11
-    D17
-    D76
+    D14
 *************************************************************
 
 *************************************************************
@@ -181,7 +253,6 @@ Used DCodes :
     D19
     D20
     D26
-    D67
     D68
     D69
     D70
@@ -190,73 +261,7 @@ Used DCodes :
     D73
     D74
     D75
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Top.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-*************************************************************
-
-*************************************************************
-Generating : EDGE CUTS
-      File : Top.GM2
-
-    Adding Layer      : EDGE CUTS
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : Top.G1
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D68
-    D69
-    D70
-    D73
-    D74
+    D76
+    D77
 *************************************************************
 

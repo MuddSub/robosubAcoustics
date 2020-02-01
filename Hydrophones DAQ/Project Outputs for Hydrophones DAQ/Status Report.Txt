@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Hydrophones DAQ.PrjPcb]
-   Generated File[Top.TXT]
-   Generated File[Top.LDP]
-   Generated File[Top.DRR]
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Top.PcbDoc]
+   Generated File[Top.step]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:09:55 AM On 2/1/2020
+Finished Output Generation At 12:53:31 PM On 2/1/2020

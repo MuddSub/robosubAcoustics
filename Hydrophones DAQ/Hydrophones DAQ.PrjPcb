@@ -1,6 +1,6 @@
 [Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -242,23 +242,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HKPOOPHQ
 
 [Document13]
-DocumentPath=Top.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DFGFLQWQ
-
-[Document14]
 DocumentPath=Hydrophones DAQ.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=battery.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CQNNPPLK
 
-[Document16]
+[Document15]
 DocumentPath=Ref.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,24 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMPVPVWL
 
-[Document17]
-DocumentPath=5VSupply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZVOZVRPG
-
-[Document18]
+[Document16]
 DocumentPath=3V3Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQBXDEFO
 
-[Document19]
+[Document17]
 DocumentPath=RasPi.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXTYUEYE
 
-[Document20]
+[Document18]
 DocumentPath=XTAL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TIWKHPQD
 
-[Document21]
+[Document19]
 DocumentPath=DAQ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYVBUVMD
 
-[Document22]
+[Document20]
 DocumentPath=FootprintImports\Imported THS4551IDGKT.lia\THS4551IDGKT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBUDKCQW
 
-[Document23]
+[Document21]
 DocumentPath=FootprintImports\Imported LD1117S33CTR.lia\LD1117S33CTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIIQUSFP
 
-[Document24]
+[Document22]
 DocumentPath=FootprintImports\Imported TO254P1435X464-4N.lia\TO254P1435X464-4N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXYKNEMB
 
-[Document25]
+[Document23]
 DocumentPath=FootprintImports\Imported SOIC127P600X175-8N.lia\SOIC127P600X175-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLSKUNDL
 
-[Document26]
+[Document24]
 DocumentPath=FootprintImports\Imported LP5912-3.3DRVT.lia\LP5912-3.3DRVT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BINVDVAU
 
-[Document27]
+[Document25]
 DocumentPath=FootprintImports\Imported CAPPRD350W60D800H2000.lia\CAPPRD350W60D800H2000.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TXHWPFFA
 
-[Document28]
+[Document26]
 DocumentPath=FootprintImports\Imported 282837-2.lia\282837-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQOXGMFI
 
-[Document29]
+[Document27]
 DocumentPath=FootprintImports\Imported LTST-C191KGKT.lia\LTST-C191KGKT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGBOFORX
 
-[Document30]
+[Document28]
 DocumentPath=rpiShield\rpi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULCRYWGC
 
-[Document31]
+[Document29]
 DocumentPath=FootprintImports\UWX1C100MCL1GB\2020-01-08_00-59-00.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTCRKTOS
 
-[Document32]
+[Document30]
 DocumentPath=OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,8 +547,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
-DocumentPath=5V_Switch\SwitchingSupply.PcbLib
+[Document31]
+DocumentPath=SwitchingSupplies\SwitchingSupply.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -598,8 +564,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document34]
-DocumentPath=5V_Switch\SwitchingSupply.SchLib
+[Document32]
+DocumentPath=SwitchingSupplies\SwitchingSupply.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -615,14 +581,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document35]
-DocumentPath=5V_Switch\5V_Switch.SchDoc
+[Document33]
+DocumentPath=SwitchingSupplies\5V_Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -632,8 +598,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXEJHCXT
 
-[Document36]
-DocumentPath=5V_Switch\3V_Switch.SchDoc
+[Document34]
+DocumentPath=DAQ.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -647,85 +613,215 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XXZYZGZW
+DocumentUniqueId=XJUMIPIJ
+
+[Document35]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document36]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Hydrophones DAQ\BOM\Bill of Materials-Hydrophones DAQ.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Hydrophones DAQ\Design Rule Check - Top.html
+DocumentPath=DAQ 5-18-2020 4-00-22 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Hydrophones DAQ\NC Drill\Top.DRR
+DocumentPath=DAQ 5-18-2020 4-02-01 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.EXTREP
+DocumentPath=DAQ 5-18-2020 4-03-47 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.G1
+DocumentPath=DAQ 5-18-2020 4-04-03 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.G2
+DocumentPath=DAQ 5-18-2020 9-51-35 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GBL
+DocumentPath=DAQ 5-19-2020 9-00-00 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GBO
+DocumentPath=DAQ 6-4-2020 2-46-25 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GBP
+DocumentPath=DAQ 6-4-2020 3-19-46 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GBS
+DocumentPath=DAQ 6-5-2020 12-56-35 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GM2
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GTL
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.G1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GTO
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.G2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GTP
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GTS
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Hydrophones DAQ\NC Drill\Top.LDP
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.REP
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.RUL
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Hydrophones DAQ\ExportSTEP\Top.step
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Hydrophones DAQ\DAQ.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Hydrophones DAQ\Design Rule Check - DAQ.html
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Hydrophones DAQ\Design Rule Check - Top.html
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Hydrophones DAQ\NC Drill\Top.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.G1
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.G2
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Hydrophones DAQ\NC Drill\Top.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.REP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Hydrophones DAQ\Gerber\Top.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Hydrophones DAQ\ExportSTEP\Top.step
+DItemRevisionGUID=
+
+[GeneratedDocument44]
 DocumentPath=Project Outputs for Hydrophones DAQ\NC Drill\Top.TXT
 DItemRevisionGUID=
 
@@ -945,7 +1041,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother MFC-9560CDW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -1033,6 +1129,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1815,20 +1923,20 @@ UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=DAQ.SchLib
-ComponentDesignItemID0=06035A360FAT2A
-ComponentSymbolReference0=06035A360FAT2A
+ComponentDesignItemID0=04025C391JAT2A
+ComponentSymbolReference0=04025C391JAT2A
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=DAQ.SchLib
-ComponentDesignItemID1=293D106X9016B2TE3
-ComponentSymbolReference1=293D106X9016B2TE3
+ComponentDesignItemID1=04025C562JAT2A
+ComponentSymbolReference1=04025C562JAT2A
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=DAQ.SchLib
-ComponentDesignItemID2=407F35E009M6000
-ComponentSymbolReference2=407F35E009M6000
+ComponentDesignItemID2=06035A190FAT2A
+ComponentSymbolReference2=06035A190FAT2A
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
@@ -1839,50 +1947,50 @@ ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=DAQ.SchLib
-ComponentDesignItemID4=C0603C391J5GACTU
-ComponentSymbolReference4=C0603C391J5GACTU
+ComponentDesignItemID4=CC0603KRX7R9BB331
+ComponentSymbolReference4=CC0603KRX7R9BB331
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=DAQ.SchLib
-ComponentDesignItemID5=C0603C562J5GACTU
-ComponentSymbolReference5=C0603C562J5GACTU
+ComponentDesignItemID5=CHS-02TB
+ComponentSymbolReference5=CHS-02TB
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=DAQ.SchLib
-ComponentDesignItemID6=C1T750
-ComponentSymbolReference6=C1T750
+ComponentDesignItemID6=CRCW060364R9FKEA
+ComponentSymbolReference6=CRCW060364R9FKEA
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=DAQ.SchLib
-ComponentDesignItemID7=CC0603KRX7R9BB331
-ComponentSymbolReference7=CC0603KRX7R9BB331
+ComponentDesignItemID7=CRGCQ0603F150K
+ComponentSymbolReference7=CRGCQ0603F150K
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=DAQ.SchLib
-ComponentDesignItemID8=CRCW060364R9FKEA
-ComponentSymbolReference8=CRCW060364R9FKEA
+ComponentDesignItemID8=ECS-192-12-33-AGM-TR
+ComponentSymbolReference8=ECS-192-12-33-AGM-TR
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=DAQ.SchLib
-ComponentDesignItemID9=CRGCQ0603F150K
-ComponentSymbolReference9=CRGCQ0603F150K
+ComponentDesignItemID9=ERA-3AEB103V
+ComponentSymbolReference9=ERA-3AEB103V
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=DAQ.SchLib
-ComponentDesignItemID10=ERA-3AEB103V
-ComponentSymbolReference10=ERA-3AEB103V
+ComponentDesignItemID10=GCM21BR71A106KE22K
+ComponentSymbolReference10=GCM21BR71A106KE22K
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=DAQ.SchLib
-ComponentDesignItemID11=GCM21BR71A106KE22K
-ComponentSymbolReference11=GCM21BR71A106KE22K
+ComponentDesignItemID11=GRM155R71A104JA01D
+ComponentSymbolReference11=GRM155R71A104JA01D
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
@@ -1905,124 +2013,160 @@ ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=DAQ.SchLib
-ComponentDesignItemID15=LM1085ISX-5.0/NOPB
-ComponentSymbolReference15=LM1085ISX-5.0/NOPB
+ComponentDesignItemID15=LTST-C191KGKT
+ComponentSymbolReference15=LTST-C191KGKT
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=DAQ.SchLib
-ComponentDesignItemID16=LTST-C191KGKT
-ComponentSymbolReference16=LTST-C191KGKT
+ComponentDesignItemID16=LTST-C191KRKT
+ComponentSymbolReference16=LTST-C191KRKT
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=DAQ.SchLib
-ComponentDesignItemID17=LTST-C191KRKT
-ComponentSymbolReference17=LTST-C191KRKT
+ComponentDesignItemID17=LTST-C19HE1WT
+ComponentSymbolReference17=LTST-C19HE1WT
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=DAQ.SchLib
-ComponentDesignItemID18=LTST-C19HE1WT
-ComponentSymbolReference18=LTST-C19HE1WT
+ComponentDesignItemID18=MCT06030C1004FP500
+ComponentSymbolReference18=MCT06030C1004FP500
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=DAQ.SchLib
-ComponentDesignItemID19=MCT06030C1004FP500
-ComponentSymbolReference19=MCT06030C1004FP500
+ComponentDesignItemID19=MCT06030C3300FP500
+ComponentSymbolReference19=MCT06030C3300FP500
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=DAQ.SchLib
-ComponentDesignItemID20=MCT06030C3300FP500
-ComponentSymbolReference20=MCT06030C3300FP500
+ComponentDesignItemID20=MCT06030E2002BP500
+ComponentSymbolReference20=MCT06030E2002BP500
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=DAQ.SchLib
-ComponentDesignItemID21=MCT06030E2002BP500
-ComponentSymbolReference21=MCT06030E2002BP500
+ComponentDesignItemID21=OPA2325
+ComponentSymbolReference21=OPA2325
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=DAQ.SchLib
-ComponentDesignItemID22=OPA2325
-ComponentSymbolReference22=OPA2325
+ComponentDesignItemID22=RASPI_4
+ComponentSymbolReference22=RASPI_4
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=DAQ.SchLib
-ComponentDesignItemID23=RASPI_4
-ComponentSymbolReference23=RASPI_4
+ComponentDesignItemID23=RC0603JR-0710KL
+ComponentSymbolReference23=RC0603JR-0710KL
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=DAQ.SchLib
-ComponentDesignItemID24=RC0603JR-0710KL
-ComponentSymbolReference24=RC0603JR-0710KL
+ComponentDesignItemID24=RP73PF1J121RBTDF
+ComponentSymbolReference24=RP73PF1J121RBTDF
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=DAQ.SchLib
-ComponentDesignItemID25=RP73PF1J121RBTDF
-ComponentSymbolReference25=RP73PF1J121RBTDF
+ComponentDesignItemID25=Single Output Conn
+ComponentSymbolReference25=Single Output Conn
 ComponentUpdate25=1
 ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=DAQ.SchLib
-ComponentDesignItemID26=SDA04H0SBR
-ComponentSymbolReference26=SDA04H0SBR
+ComponentDesignItemID26=THS4551IDGKT
+ComponentSymbolReference26=THS4551IDGKT
 ComponentUpdate26=1
 ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
 ComponentLibraryIdentifier27=DAQ.SchLib
-ComponentDesignItemID27=THS4551IDGKT
-ComponentSymbolReference27=THS4551IDGKT
+ComponentDesignItemID27=TNPW060310K0BEEA
+ComponentSymbolReference27=TNPW060310K0BEEA
 ComponentUpdate27=1
 ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
 ComponentLibraryIdentifier28=DAQ.SchLib
-ComponentDesignItemID28=TNPW060310K0BEEA
-ComponentSymbolReference28=TNPW060310K0BEEA
+ComponentDesignItemID28=TNPW06031K00BEEA
+ComponentSymbolReference28=TNPW06031K00BEEA
 ComponentUpdate28=1
 ComponentIsDeviceSheet28=0
 ComponentLibIdentifierKind29=Library Name And Type
 ComponentLibraryIdentifier29=DAQ.SchLib
-ComponentDesignItemID29=TNPW06031K00BEEA
-ComponentSymbolReference29=TNPW06031K00BEEA
+ComponentDesignItemID29=TNPW06032K00BEEA
+ComponentSymbolReference29=TNPW06032K00BEEA
 ComponentUpdate29=1
 ComponentIsDeviceSheet29=0
 ComponentLibIdentifierKind30=Library Name And Type
 ComponentLibraryIdentifier30=DAQ.SchLib
-ComponentDesignItemID30=UWX1C100MCL1GB
-ComponentSymbolReference30=UWX1C100MCL1GB
+ComponentDesignItemID30=VJ0603Y104JXJCW1BC
+ComponentSymbolReference30=VJ0603Y104JXJCW1BC
 ComponentUpdate30=1
 ComponentIsDeviceSheet30=0
 ComponentLibIdentifierKind31=Library Name And Type
 ComponentLibraryIdentifier31=DAQ.SchLib
-ComponentDesignItemID31=VJ0603Y104JXJCW1BC
-ComponentSymbolReference31=VJ0603Y104JXJCW1BC
+ComponentDesignItemID31=VJ0603Y224KXJCW1BC
+ComponentSymbolReference31=VJ0603Y224KXJCW1BC
 ComponentUpdate31=1
 ComponentIsDeviceSheet31=0
 ComponentLibIdentifierKind32=Library Name And Type
 ComponentLibraryIdentifier32=DAQ.SchLib
-ComponentDesignItemID32=VJ0603Y224KXJCW1BC
-ComponentSymbolReference32=VJ0603Y224KXJCW1BC
+ComponentDesignItemID32=VJ0805Y474JXJTW1BC
+ComponentSymbolReference32=VJ0805Y474JXJTW1BC
 ComponentUpdate32=1
 ComponentIsDeviceSheet32=0
 ComponentLibIdentifierKind33=Library Name And Type
-ComponentLibraryIdentifier33=DAQ.SchLib
-ComponentDesignItemID33=VJ0805Y474JXJTW1BC
-ComponentSymbolReference33=VJ0805Y474JXJTW1BC
+ComponentLibraryIdentifier33=SwitchingSupply.SchLib
+ComponentDesignItemID33=74438357022
+ComponentSymbolReference33=74438357022
 ComponentUpdate33=1
 ComponentIsDeviceSheet33=0
-ComponentLibIdentifierKind34=Library Name Only
-ComponentLibraryIdentifier34=Altium Content Vault
-ComponentDesignItemID34=CMP-0313-02423-1
-ComponentSymbolReference34=ADI-ADAR7251-CS-48-1
+ComponentLibIdentifierKind34=Library Name And Type
+ComponentLibraryIdentifier34=SwitchingSupply.SchLib
+ComponentDesignItemID34=C1608X5R1A226M080AC
+ComponentSymbolReference34=C1608X5R1A226M080AC
 ComponentUpdate34=1
 ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Library Name And Type
+ComponentLibraryIdentifier35=SwitchingSupply.SchLib
+ComponentDesignItemID35=C1608X5R1E106M080AC
+ComponentSymbolReference35=C1608X5R1E106M080AC
+ComponentUpdate35=1
+ComponentIsDeviceSheet35=0
+ComponentLibIdentifierKind36=Library Name And Type
+ComponentLibraryIdentifier36=SwitchingSupply.SchLib
+ComponentDesignItemID36=CRCW0402100KFKED
+ComponentSymbolReference36=CRCW0402100KFKED
+ComponentUpdate36=1
+ComponentIsDeviceSheet36=0
+ComponentLibIdentifierKind37=Library Name And Type
+ComponentLibraryIdentifier37=SwitchingSupply.SchLib
+ComponentDesignItemID37=GRM1555C1E621JA01D
+ComponentSymbolReference37=GRM1555C1E621JA01D
+ComponentUpdate37=1
+ComponentIsDeviceSheet37=0
+ComponentLibIdentifierKind38=Library Name And Type
+ComponentLibraryIdentifier38=SwitchingSupply.SchLib
+ComponentDesignItemID38=GRM155R71C104KA88D
+ComponentSymbolReference38=GRM155R71C104KA88D
+ComponentUpdate38=1
+ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Library Name And Type
+ComponentLibraryIdentifier39=SwitchingSupply.SchLib
+ComponentDesignItemID39=TPS62133AQRGTRQ1
+ComponentSymbolReference39=TPS62133AQRGTRQ1
+ComponentUpdate39=1
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Library Name Only
+ComponentLibraryIdentifier40=Altium Content Vault
+ComponentDesignItemID40=CMP-0313-02423-1
+ComponentSymbolReference40=ADI-ADAR7251-CS-48-1
+ComponentUpdate40=1
+ComponentIsDeviceSheet40=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2046,7 +2190,7 @@ ParameterName3=Actuator Material
 ParameterUpdate3=1
 ParameterName4=Actuator Type
 ParameterUpdate4=1
-ParameterName5=Approvals
+ParameterName5=Availability
 ParameterUpdate5=1
 ParameterName6=AVDD Max
 ParameterUpdate6=1
@@ -2092,171 +2236,171 @@ ParameterName26=ComponentLink14Description
 ParameterUpdate26=1
 ParameterName27=ComponentLink14URL
 ParameterUpdate27=1
-ParameterName28=ComponentLink1Description
+ParameterName28=ComponentLink15Description
 ParameterUpdate28=1
-ParameterName29=ComponentLink1URL
+ParameterName29=ComponentLink15URL
 ParameterUpdate29=1
-ParameterName30=ComponentLink2Description
+ParameterName30=ComponentLink16Description
 ParameterUpdate30=1
-ParameterName31=ComponentLink2URL
+ParameterName31=ComponentLink16URL
 ParameterUpdate31=1
-ParameterName32=ComponentLink3Description
+ParameterName32=ComponentLink17Description
 ParameterUpdate32=1
-ParameterName33=ComponentLink3URL
+ParameterName33=ComponentLink17URL
 ParameterUpdate33=1
-ParameterName34=ComponentLink4Description
+ParameterName34=ComponentLink1Description
 ParameterUpdate34=1
-ParameterName35=ComponentLink4URL
+ParameterName35=ComponentLink1URL
 ParameterUpdate35=1
-ParameterName36=ComponentLink5Description
+ParameterName36=ComponentLink2Description
 ParameterUpdate36=1
-ParameterName37=ComponentLink5URL
+ParameterName37=ComponentLink2URL
 ParameterUpdate37=1
-ParameterName38=ComponentLink6Description
+ParameterName38=ComponentLink3Description
 ParameterUpdate38=1
-ParameterName39=ComponentLink6URL
+ParameterName39=ComponentLink3URL
 ParameterUpdate39=1
-ParameterName40=ComponentLink7Description
+ParameterName40=ComponentLink4Description
 ParameterUpdate40=1
-ParameterName41=ComponentLink7URL
+ParameterName41=ComponentLink4URL
 ParameterUpdate41=1
-ParameterName42=ComponentLink8Description
+ParameterName42=ComponentLink5Description
 ParameterUpdate42=1
-ParameterName43=ComponentLink8URL
+ParameterName43=ComponentLink5URL
 ParameterUpdate43=1
-ParameterName44=ComponentLink9Description
+ParameterName44=ComponentLink6Description
 ParameterUpdate44=1
-ParameterName45=ComponentLink9URL
+ParameterName45=ComponentLink6URL
 ParameterUpdate45=1
-ParameterName46=Composition
+ParameterName46=ComponentLink7Description
 ParameterUpdate46=1
-ParameterName47=Contact Material
+ParameterName47=ComponentLink7URL
 ParameterUpdate47=1
-ParameterName48=Contact Plating
+ParameterName48=ComponentLink8Description
 ParameterUpdate48=1
-ParameterName49=Contact Resistance
+ParameterName49=ComponentLink8URL
 ParameterUpdate49=1
-ParameterName50=Current Rating
+ParameterName50=ComponentLink9Description
 ParameterUpdate50=1
-ParameterName51=DatasheetVersion
+ParameterName51=ComponentLink9URL
 ParameterUpdate51=1
-ParameterName52=Depth
+ParameterName52=Composition
 ParameterUpdate52=1
-ParameterName53=Description
+ParameterName53=Contact Material
 ParameterUpdate53=1
-ParameterName54=Diameter
+ParameterName54=Contact Plating
 ParameterUpdate54=1
-ParameterName55=Dielectric
+ParameterName55=Contact Resistance
 ParameterUpdate55=1
-ParameterName56=Dielectric Material
+ParameterName56=Core Material
 ParameterUpdate56=1
-ParameterName57=Dissipation Factor
+ParameterName57=Current Rating
 ParameterUpdate57=1
-ParameterName58=Dominant Wavelength
+ParameterName58=DatasheetVersion
 ParameterUpdate58=1
-ParameterName59=Dropout Voltage
+ParameterName59=DC Resistance (DCR)
 ParameterUpdate59=1
-ParameterName60=DVDD Max
+ParameterName60=Depth
 ParameterUpdate60=1
-ParameterName61=DVDD Min
+ParameterName61=Description
 ParameterUpdate61=1
-ParameterName62=Electrical Life
+ParameterName62=Dielectric
 ParameterUpdate62=1
-ParameterName63=ESR (Equivalent Series Resistance)
+ParameterName63=Dielectric Material
 ParameterUpdate63=1
-ParameterName64=Features
+ParameterName64=Dissipation Factor
 ParameterUpdate64=1
-ParameterName65=Forward Current
+ParameterName65=Dominant Wavelength
 ParameterUpdate65=1
-ParameterName66=Forward Voltage
+ParameterName66=Dropout Voltage
 ParameterUpdate66=1
-ParameterName67=Frequency
+ParameterName67=DVDD Max
 ParameterUpdate67=1
-ParameterName68=Frequency Stability
+ParameterName68=DVDD Min
 ParameterUpdate68=1
-ParameterName69=Frequency Tolerance
+ParameterName69=Electrical Life
 ParameterUpdate69=1
-ParameterName70=Fuse Type
+ParameterName70=Features
 ParameterUpdate70=1
-ParameterName71=Gain Bandwidth Product
+ParameterName71=Forward Current
 ParameterUpdate71=1
-ParameterName72=Halogen Free
+ParameterName72=Forward Voltage
 ParameterUpdate72=1
-ParameterName73=Height
+ParameterName73=Gain Bandwidth Product
 ParameterUpdate73=1
-ParameterName74=Height - Seated (Max)
+ParameterName74=Halogen Free
 ParameterUpdate74=1
-ParameterName75=Illumination Color
+ParameterName75=Height
 ParameterUpdate75=1
-ParameterName76=Input Bias Current
+ParameterName76=Illumination Color
 ParameterUpdate76=1
-ParameterName77=Input Offset Voltage (Vos)
+ParameterName77=Inductance
 ParameterUpdate77=1
-ParameterName78=Insulation Resistance
+ParameterName78=Input Bias Current
 ParameterUpdate78=1
-ParameterName79=Lead Free
+ParameterName79=Input Offset Voltage (Vos)
 ParameterUpdate79=1
-ParameterName80=Lead Pitch
+ParameterName80=Insulation Resistance
 ParameterUpdate80=1
-ParameterName81=Leakage Current
+ParameterName81=Lead Free
 ParameterUpdate81=1
-ParameterName82=Length
+ParameterName82=Lead Pitch
 ParameterUpdate82=1
-ParameterName83=Lens Color
+ParameterName83=Length
 ParameterUpdate83=1
-ParameterName84=Lens Style
+ParameterName84=Lens Color
 ParameterUpdate84=1
-ParameterName85=Lens Transparency
+ParameterName85=Lens Style
 ParameterUpdate85=1
-ParameterName86=Library Reference
+ParameterName86=Lens Transparency
 ParameterUpdate86=1
-ParameterName87=Life (Hours)
+ParameterName87=Library Reference
 ParameterUpdate87=1
-ParameterName88=Load Capacitance
+ParameterName88=Luminous Intensity
 ParameterUpdate88=1
-ParameterName89=Luminous Intensity
+ParameterName89=Manufacturer 1
 ParameterUpdate89=1
-ParameterName90=Manufacturer 1
+ParameterName90=Manufacturer 2
 ParameterUpdate90=1
-ParameterName91=Manufacturer 2
+ParameterName91=Manufacturer Part Number 1
 ParameterUpdate91=1
-ParameterName92=Manufacturer Part Number 1
+ParameterName92=Manufacturer Part Number 2
 ParameterUpdate92=1
-ParameterName93=Manufacturer Part Number 2
+ParameterName93=Max Current Rating
 ParameterUpdate93=1
-ParameterName94=Max Current Rating
+ParameterName94=Max Input Voltage
 ParameterUpdate94=1
-ParameterName95=Max Input Voltage
+ParameterName95=Max Operating Temperature
 ParameterUpdate95=1
-ParameterName96=Max Operating Temperature
+ParameterName96=Max Output Current
 ParameterUpdate96=1
-ParameterName97=Max Output Current
+ParameterName97=Max Output Voltage
 ParameterUpdate97=1
-ParameterName98=Max Output Voltage
+ParameterName98=Max Power Dissipation
 ParameterUpdate98=1
-ParameterName99=Max Power Dissipation
+ParameterName99=Max Supply Voltage
 ParameterUpdate99=1
-ParameterName100=Max Supply Voltage
+ParameterName100=Max Voltage Rating (DC)
 ParameterUpdate100=1
-ParameterName101=Max Voltage Rating (DC)
+ParameterName101=Mechanical Life
 ParameterUpdate101=1
-ParameterName102=Mechanical Life
+ParameterName102=MF
 ParameterUpdate102=1
 ParameterName103=Military Standard
 ParameterUpdate103=1
-ParameterName104=Min Current Limit
+ParameterName104=Min Input Voltage
 ParameterUpdate104=1
-ParameterName105=Min Input Voltage
+ParameterName105=Min Operating Temperature
 ParameterUpdate105=1
-ParameterName106=Min Operating Temperature
+ParameterName106=Min Output Voltage
 ParameterUpdate106=1
-ParameterName107=Min Output Voltage
+ParameterName107=Min Supply Voltage
 ParameterUpdate107=1
-ParameterName108=Min Supply Voltage
+ParameterName108=Mount
 ParameterUpdate108=1
-ParameterName109=Mount
+ParameterName109=Mounting Technology
 ParameterUpdate109=1
-ParameterName110=Mounting Technology
+ParameterName110=MP
 ParameterUpdate110=1
 ParameterName111=Nominal Output Voltage
 ParameterUpdate111=1
@@ -2298,108 +2442,114 @@ ParameterName129=Output Voltage
 ParameterUpdate129=1
 ParameterName130=Output Voltage Accuracy
 ParameterUpdate130=1
-ParameterName131=Package Quantity
+ParameterName131=Package
 ParameterUpdate131=1
-ParameterName132=PackageDescription
+ParameterName132=Package Quantity
 ParameterUpdate132=1
-ParameterName133=PackageVersion
+ParameterName133=PackageDescription
 ParameterUpdate133=1
-ParameterName134=Packaging
+ParameterName134=PackageVersion
 ParameterUpdate134=1
-ParameterName135=Packing
+ParameterName135=Packaging
 ParameterUpdate135=1
-ParameterName136=PartNumber
+ParameterName136=Packing
 ParameterUpdate136=1
-ParameterName137=Pitch
+ParameterName137=PartNumber
 ParameterUpdate137=1
-ParameterName138=Polarity
+ParameterName138=Pitch
 ParameterUpdate138=1
-ParameterName139=Power Dissipation
+ParameterName139=Polarity
 ParameterUpdate139=1
-ParameterName140=Power Rating
+ParameterName140=Power Dissipation
 ParameterUpdate140=1
-ParameterName141=Pricing 1
+ParameterName141=Power Rating
 ParameterUpdate141=1
-ParameterName142=Pricing 2
+ParameterName142=Price
 ParameterUpdate142=1
-ParameterName143=Q Factor
+ParameterName143=Pricing 1
 ParameterUpdate143=1
-ParameterName144=Quiescent Current
+ParameterName144=Pricing 2
 ParameterUpdate144=1
-ParameterName145=Radiation Hardening
+ParameterName145=Quiescent Current
 ParameterUpdate145=1
-ParameterName146=Ratings
+ParameterName146=Radiation Hardening
 ParameterUpdate146=1
-ParameterName147=REACH SVHC
+ParameterName147=Ratings
 ParameterUpdate147=1
-ParameterName148=Resistance
+ParameterName148=REACH SVHC
 ParameterUpdate148=1
-ParameterName149=Reverse Voltage
+ParameterName149=Resistance
 ParameterUpdate149=1
-ParameterName150=Ripple Current
+ParameterName150=Reverse Voltage
 ParameterUpdate150=1
-ParameterName151=Ripple Current (AC)
+ParameterName151=RoHS
 ParameterUpdate151=1
-ParameterName152=RoHS
+ParameterName152=Sample Rate Max
 ParameterUpdate152=1
-ParameterName153=Sample Rate Max
+ParameterName153=Saturation Current
 ParameterUpdate153=1
-ParameterName154=Series Resistance
+ParameterName154=Self Resonant Frequency
 ParameterUpdate154=1
-ParameterName155=Slew Rate
+ParameterName155=Shielding
 ParameterUpdate155=1
-ParameterName156=Stock 1
+ParameterName156=Slew Rate
 ParameterUpdate156=1
-ParameterName157=Stock 2
+ParameterName157=SnapEDA_Link
 ParameterUpdate157=1
-ParameterName158=Supplier 1
+ParameterName158=Stock 1
 ParameterUpdate158=1
-ParameterName159=Supplier 2
+ParameterName159=Stock 2
 ParameterUpdate159=1
-ParameterName160=Supplier Part Number 1
+ParameterName160=Supplier 1
 ParameterUpdate160=1
-ParameterName161=Supplier Part Number 2
+ParameterName161=Supplier 2
 ParameterUpdate161=1
-ParameterName162=Temperature Coefficient
+ParameterName162=Supplier Part Number 1
 ParameterUpdate162=1
-ParameterName163=Temperature Max
+ParameterName163=Supplier Part Number 2
 ParameterUpdate163=1
-ParameterName164=Temperature Min
+ParameterName164=Temperature Coefficient
 ParameterUpdate164=1
-ParameterName165=Terminal Pitch
+ParameterName165=Temperature Max
 ParameterUpdate165=1
-ParameterName166=Termination
+ParameterName166=Temperature Min
 ParameterUpdate166=1
-ParameterName167=Test Current
+ParameterName167=Terminal Pitch
 ParameterUpdate167=1
-ParameterName168=Thickness
+ParameterName168=Termination
 ParameterUpdate168=1
-ParameterName169=Throw Configuration
+ParameterName169=Test Current
 ParameterUpdate169=1
-ParameterName170=Tolerance
+ParameterName170=Test Frequency
 ParameterUpdate170=1
-ParameterName171=Viewing Angle
+ParameterName171=Thickness
 ParameterUpdate171=1
-ParameterName172=Voltage
+ParameterName172=Throw Configuration
 ParameterUpdate172=1
-ParameterName173=Voltage Rating
+ParameterName173=Tolerance
 ParameterUpdate173=1
-ParameterName174=Voltage Rating (AC)
+ParameterName174=Value
 ParameterUpdate174=1
-ParameterName175=Voltage Rating (DC)
+ParameterName175=Viewing Angle
 ParameterUpdate175=1
-ParameterName176=Washable
+ParameterName176=Voltage
 ParameterUpdate176=1
-ParameterName177=Wavelength
+ParameterName177=Voltage Rating
 ParameterUpdate177=1
-ParameterName178=Weight
+ParameterName178=Voltage Rating (DC)
 ParameterUpdate178=1
-ParameterName179=Width
+ParameterName179=Washable
 ParameterUpdate179=1
+ParameterName180=Wavelength
+ParameterUpdate180=1
+ParameterName181=Weight
+ParameterUpdate181=1
+ParameterName182=Width
+ParameterUpdate182=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=*CAPPRD350W60D800H2000
+ModelName0=*0603
 ModelUpdate0=1
 ModelType1=PCBLIB
 ModelName1=*SOIC127P600X175-8N
@@ -2414,47 +2564,50 @@ ModelType4=PCBLIB
 ModelName4=*TE_282837-2
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=*TO254P1435X464-4N_5V
+ModelName5=ADI-CS-48-1_L
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=293D106X9016B2TE3
+ModelName6=ADI-CS-48-1_M
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=ADI-CS-48-1_L
+ModelName7=ADI-CS-48-1_N
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=ADI-CS-48-1_M
+ModelName8=C0402
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=ADI-CS-48-1_N
+ModelName9=C0603
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=C0603
+ModelName10=C0805
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=C0805
+ModelName11=CHS-02TB
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=fuse_C1T_1206
+ModelName12=HEADERPINS_1x1
 ModelUpdate12=1
 ModelType13=PCBLIB
 ModelName13=headerPins_4x1
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=R0603
+ModelName14=hydrophones_sma_conn
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=rgb_led_LTST-C19HE1WT
+ModelName15=QFN50P300X300X100-17N
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=rpi
+ModelName16=R0603
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=SDA04H0SB_dip_switch
+ModelName17=rgb_led_LTST-C19HE1WT
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=XTAL_407F35E009M6000
+ModelName18=rpi
 ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=XTAL_ECS-192-12-33-AGM-TR
+ModelUpdate19=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

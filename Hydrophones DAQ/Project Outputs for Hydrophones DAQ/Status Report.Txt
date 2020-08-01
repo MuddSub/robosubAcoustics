@@ -1,23 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Hydrophones DAQ.PrjPcb]
-   Generated File[DAQ.GTO]
-   Generated File[DAQ.GTP]
-   Generated File[DAQ.GTS]
-   Generated File[DAQ.GTL]
-   Generated File[DAQ.G1]
-   Generated File[DAQ.G2]
-   Generated File[DAQ.GBL]
-   Generated File[DAQ.GBS]
-   Generated File[DAQ.GBP]
-   Generated File[DAQ.GBO]
-   Generated File[DAQ.GM2]
-   Generated File[DAQ.RUL]
-   Generated File[DAQ.EXTREP]
-   Generated File[DAQ.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Hydrophones DAQ.PrjPcb]
+   Generated File[DAQ.TXT]
+   Generated File[DAQ.LDP]
+   Generated File[DAQ.DRR]
 
 
-Files Generated   : 14
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 1:53:12 AM On 6/5/2020
+Finished Output Generation At 10:10:39 PM On 7/7/2020

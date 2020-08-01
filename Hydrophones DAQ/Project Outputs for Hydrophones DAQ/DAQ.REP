@@ -67,6 +67,30 @@ Used DCodes :
     D102
     D103
     D104
+    D105
+    D106
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : DAQ.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D90
+    D91
+    D92
+    D94
+    D97
+    D100
+    D102
+    D104
+    D105
+    D106
 *************************************************************
 
 *************************************************************
@@ -78,96 +102,6 @@ Generating : EDGE CUTS
 
 Used DCodes :
     D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : DAQ.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D22
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : DAQ.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : DAQ.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D20
-    D22
-    D43
-    D77
-    D81
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
 *************************************************************
 
 *************************************************************
@@ -222,6 +156,46 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : DAQ.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DAQ.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D45
+    D46
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : DAQ.GTO
 
@@ -241,10 +215,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : DAQ.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : DAQ.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -252,19 +224,87 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D45
-    D46
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
+    D11
+    D19
+    D20
+    D22
+    D43
+    D77
+    D80
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DAQ.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D22
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DAQ.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 
 *************************************************************
@@ -278,47 +318,14 @@ Generating : 3V3
 
 Used DCodes :
     D11
-    D78
-    D93
-    D98
+    D79
+    D82
+    D90
+    D94
     D99
     D100
-    D103
-    D105
-    D106
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : DAQ.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D14
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : DAQ.G1
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D89
-    D90
-    D91
-    D93
-    D96
-    D98
-    D99
+    D101
     D102
-    D103
-    D104
+    D105
 *************************************************************
 

@@ -1,8 +1,9 @@
 .DS_Store
 .git
 
-# Ignore history folder
+# generated folders
 Hydrophones DAQ/History
+Hydrophones DAQ/__Previews
 
 # Ignore project logs
 *.LOG

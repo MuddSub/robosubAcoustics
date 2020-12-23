@@ -1,12 +1,13 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Hydrophones DAQ.PrjPcb]
-   Generated File[DAQ.TXT]
-   Generated File[DAQ.LDP]
-   Generated File[DAQ.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Hydrophones DAQ.PrjPcb]
+   Generated File[Rev3.GTP]
+   Generated File[Rev3.RUL]
+   Generated File[Rev3.EXTREP]
+   Generated File[Rev3.REP]
 
 
-Files Generated   : 3
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 10:10:39 PM On 7/7/2020
+Finished Output Generation At 10:15:02 PM On 12/22/2020

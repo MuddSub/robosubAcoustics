@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\cnorf\Documents\GitHub\robosubAcoustics\Hydrophones DAQ\Rev3.PcbDoc
-Date     : 12/21/2020
-Time     : 9:41:24 PM
+PCB File : C:\Users\Seth\Documents\GitHub\robosubAcoustics\Hydrophones DAQ\Rev3.PcbDoc
+Date     : 12/23/2020
+Time     : 1:19:52 AM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -75,4 +75,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
